@@ -1,0 +1,1813 @@
+{
+ "schema": 1,
+ "home": "media-neutrino",
+ "title": "NeutrinoHit films: neutrinos, particles, astrophysics",
+ "budget_bytes": 900000000,
+ "media": [
+  {
+   "id": "air-shower",
+   "variant": "web-en",
+   "version": 1,
+   "file": "air-shower/web-en-v1.mp4",
+   "asset": "air-shower--web-en--v1.mp4",
+   "release": "air-shower",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/air-shower/air-shower--web-en--v1.mp4",
+   "sha256": "129bd13781b3d5f72aca68fb05f74d95fedea0e778df520d59c7a267358d211a",
+   "bytes": 2846580,
+   "duration_s": 99.8,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Широкий атмосферный ливень",
+    "en": "Extensive air shower"
+   }
+  },
+  {
+   "id": "air-shower",
+   "variant": "web-ru",
+   "version": 1,
+   "file": "air-shower/web-ru-v1.mp4",
+   "asset": "air-shower--web-ru--v1.mp4",
+   "release": "air-shower",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/air-shower/air-shower--web-ru--v1.mp4",
+   "sha256": "0ecd86402a1a2de02c7789cecadc8a320178f3bbfde0c2e9fc01c84a0ab7a5c5",
+   "bytes": 2946619,
+   "duration_s": 99.8,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Широкий атмосферный ливень",
+    "en": "Extensive air shower"
+   }
+  },
+  {
+   "id": "bbn",
+   "variant": "web-animation",
+   "version": 1,
+   "file": "bbn/web-animation-v1.mp4",
+   "asset": "bbn--web-animation--v1.mp4",
+   "release": "bbn",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/bbn/bbn--web-animation--v1.mp4",
+   "sha256": "0ba62f1244aceac4ec8cf86696fe2495ed8bd8014e20fdbfcb714dde56ee25e6",
+   "bytes": 2684368,
+   "duration_s": 42.23,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Первичный нуклеосинтез",
+    "en": "Big Bang nucleosynthesis"
+   }
+  },
+  {
+   "id": "cherenkov-cone",
+   "variant": "web-cylinder",
+   "version": 1,
+   "file": "cherenkov-cone/web-cylinder-v1.mp4",
+   "asset": "cherenkov-cone--web-cylinder--v1.mp4",
+   "release": "cherenkov-cone",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/cherenkov-cone/cherenkov-cone--web-cylinder--v1.mp4",
+   "sha256": "51876041ed69ecb9ad10f83cc1042ecae5b84e4289711bd59342fb404c58114d",
+   "bytes": 720108,
+   "duration_s": 5.83,
+   "width": 1400,
+   "height": 900,
+   "audio": false,
+   "title": {
+    "ru": "Конус Черенкова",
+    "en": "The Cherenkov cone"
+   }
+  },
+  {
+   "id": "cherenkov-radiation",
+   "variant": "web-huygens-en",
+   "version": 1,
+   "file": "cherenkov-radiation/web-huygens-en-v1.mp4",
+   "asset": "cherenkov-radiation--web-huygens-en--v1.mp4",
+   "release": "cherenkov-radiation",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/cherenkov-radiation/cherenkov-radiation--web-huygens-en--v1.mp4",
+   "sha256": "12df070e44a3775c2cfb5ceeede5d4764eef786f484d9150907b88eefe669d33",
+   "bytes": 1391444,
+   "duration_s": 40.0,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Излучение Вавилова — Черенкова",
+    "en": "Vavilov–Cherenkov radiation"
+   }
+  },
+  {
+   "id": "cherenkov-radiation",
+   "variant": "web-huygens-ru",
+   "version": 1,
+   "file": "cherenkov-radiation/web-huygens-ru-v1.mp4",
+   "asset": "cherenkov-radiation--web-huygens-ru--v1.mp4",
+   "release": "cherenkov-radiation",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/cherenkov-radiation/cherenkov-radiation--web-huygens-ru--v1.mp4",
+   "sha256": "4826675bd303e31679d5ef5a4f6aad86e7e31452147836b04dd20b0b140395ce",
+   "bytes": 1456774,
+   "duration_s": 40.0,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Излучение Вавилова — Черенкова",
+    "en": "Vavilov–Cherenkov radiation"
+   }
+  },
+  {
+   "id": "chiral-condensate-layer",
+   "variant": "qr-particle-physics",
+   "version": 1,
+   "file": "chiral-condensate-layer/qr-particle-physics-v1.mp4",
+   "asset": "chiral-condensate-layer--qr-particle-physics--v1.mp4",
+   "release": "chiral-condensate-layer",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/chiral-condensate-layer/chiral-condensate-layer--qr-particle-physics--v1.mp4",
+   "sha256": "b787ea6d7c4cba5c2578947340670956eb295f95b1f7ee73b3515fdb40a373fd",
+   "bytes": 284643,
+   "duration_s": 5.17,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Киральные волны на слое конденсата",
+    "en": "Chiral waves on a layer of condensate"
+   }
+  },
+  {
+   "id": "coupled-oscillators",
+   "variant": "qr-neutrino-physics",
+   "version": 1,
+   "file": "coupled-oscillators/qr-neutrino-physics-v1.mp4",
+   "asset": "coupled-oscillators--qr-neutrino-physics--v1.mp4",
+   "release": "coupled-oscillators",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/coupled-oscillators/coupled-oscillators--qr-neutrino-physics--v1.mp4",
+   "sha256": "81ca9c35c75ad26d775a859ffb58d166d06a529dfaa03fc40852bebdf87d5564",
+   "bytes": 14581159,
+   "duration_s": 44.7,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Аналогия: связанные осцилляторы",
+    "en": "An analogy: coupled oscillators"
+   }
+  },
+  {
+   "id": "coupled-pendulums",
+   "variant": "qr-particle-physics",
+   "version": 1,
+   "file": "coupled-pendulums/qr-particle-physics-v1.mp4",
+   "asset": "coupled-pendulums--qr-particle-physics--v1.mp4",
+   "release": "coupled-pendulums",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/coupled-pendulums/coupled-pendulums--qr-particle-physics--v1.mp4",
+   "sha256": "1d516fade9316527e8ca3c535495227baf7bdfefda66e06d26462eb3bcbdc203",
+   "bytes": 366658,
+   "duration_s": 5.27,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Нормальные моды связанных маятников",
+    "en": "The normal modes of coupled pendulums"
+   }
+  },
+  {
+   "id": "cross-section",
+   "variant": "qr-particle-physics",
+   "version": 1,
+   "file": "cross-section/qr-particle-physics-v1.mp4",
+   "asset": "cross-section--qr-particle-physics--v1.mp4",
+   "release": "cross-section",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/cross-section/cross-section--qr-particle-physics--v1.mp4",
+   "sha256": "a0bfa4507147575f1f3793560b03db46b3bebad93626fd0b87aec99cae00720c",
+   "bytes": 546967,
+   "duration_s": 4.8,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Сечение: поток и прицельный параметр",
+    "en": "The cross section: a flux and the impact parameter"
+   }
+  },
+  {
+   "id": "earth-shield",
+   "variant": "web-en",
+   "version": 1,
+   "file": "earth-shield/web-en-v1.mp4",
+   "asset": "earth-shield--web-en--v1.mp4",
+   "release": "earth-shield",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/earth-shield/earth-shield--web-en--v1.mp4",
+   "sha256": "91e610db7e746f0f7c1e09773e0c6e99a79d81bce8e4b0df742065bbc5a49435",
+   "bytes": 2256248,
+   "duration_s": 97.9,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Земля как щит: мюоны останавливаются, нейтрино проходят",
+    "en": "The Earth as a shield: muons stop, neutrinos pass"
+   }
+  },
+  {
+   "id": "earth-shield",
+   "variant": "web-ru",
+   "version": 1,
+   "file": "earth-shield/web-ru-v1.mp4",
+   "asset": "earth-shield--web-ru--v1.mp4",
+   "release": "earth-shield",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/earth-shield/earth-shield--web-ru--v1.mp4",
+   "sha256": "662018a38fdbcb038c8d1a0b2c1ccb61457865ec3f98fe292622a6668e3aa64c",
+   "bytes": 2325736,
+   "duration_s": 97.9,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Земля как щит: мюоны останавливаются, нейтрино проходят",
+    "en": "The Earth as a shield: muons stop, neutrinos pass"
+   }
+  },
+  {
+   "id": "electron-electron-scattering",
+   "variant": "qr-neutrino-physics",
+   "version": 1,
+   "file": "electron-electron-scattering/qr-neutrino-physics-v1.mp4",
+   "asset": "electron-electron-scattering--qr-neutrino-physics--v1.mp4",
+   "release": "electron-electron-scattering",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/electron-electron-scattering/electron-electron-scattering--qr-neutrino-physics--v1.mp4",
+   "sha256": "6a595436ccba224a66c7942f8f3a0ad1db90df9a8ed5ec3e415f1e442deb97f2",
+   "bytes": 105248,
+   "duration_s": 5.75,
+   "width": 720,
+   "height": 1280,
+   "audio": false,
+   "title": {
+    "ru": "Рассеяние $e^-e^-$ с обменом фотоном",
+    "en": "$e^-e^-$ scattering with a photon exchange"
+   }
+  },
+  {
+   "id": "electrons-in-magnetic-field",
+   "variant": "qr-neutrino-physics",
+   "version": 1,
+   "file": "electrons-in-magnetic-field/qr-neutrino-physics-v1.mp4",
+   "asset": "electrons-in-magnetic-field--qr-neutrino-physics--v1.mp4",
+   "release": "electrons-in-magnetic-field",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/electrons-in-magnetic-field/electrons-in-magnetic-field--qr-neutrino-physics--v1.mp4",
+   "sha256": "6c7470fb7223a694724ea99bbde046176b9fe8c17ec4a4c7bbfadee293879f97",
+   "bytes": 543572,
+   "duration_s": 14.0,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Электроны в постоянном магнитном поле",
+    "en": "Electrons in a constant magnetic field"
+   }
+  },
+  {
+   "id": "feynman-scattering",
+   "variant": "web-electron-electron",
+   "version": 1,
+   "file": "feynman-scattering/web-electron-electron-v1.mp4",
+   "asset": "feynman-scattering--web-electron-electron--v1.mp4",
+   "release": "feynman-scattering",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/feynman-scattering/feynman-scattering--web-electron-electron--v1.mp4",
+   "sha256": "6671b97290bfe92b6b74b98105b449817963a05a1c7531ee3dd6f3c1b71de167",
+   "bytes": 164257,
+   "duration_s": 5.75,
+   "width": 1080,
+   "height": 1920,
+   "audio": false,
+   "title": {
+    "ru": "Диаграммы рассеяния",
+    "en": "Scattering diagrams"
+   }
+  },
+  {
+   "id": "feynman-scattering",
+   "variant": "web-nu-mu-electron",
+   "version": 1,
+   "file": "feynman-scattering/web-nu-mu-electron-v1.mp4",
+   "asset": "feynman-scattering--web-nu-mu-electron--v1.mp4",
+   "release": "feynman-scattering",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/feynman-scattering/feynman-scattering--web-nu-mu-electron--v1.mp4",
+   "sha256": "33f49b0f9848f88b9d80c626fd8fb4f152ecd5dca00442089907d22b531a27e8",
+   "bytes": 176710,
+   "duration_s": 5.75,
+   "width": 1080,
+   "height": 1920,
+   "audio": false,
+   "title": {
+    "ru": "Диаграммы рассеяния",
+    "en": "Scattering diagrams"
+   }
+  },
+  {
+   "id": "feynman-scattering",
+   "variant": "web-nu-mu-z",
+   "version": 1,
+   "file": "feynman-scattering/web-nu-mu-z-v1.mp4",
+   "asset": "feynman-scattering--web-nu-mu-z--v1.mp4",
+   "release": "feynman-scattering",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/feynman-scattering/feynman-scattering--web-nu-mu-z--v1.mp4",
+   "sha256": "f9bc71ab06e13612d5b4730f63d5834636da24ca0f7b57ca6e93edf81dbf4595",
+   "bytes": 175165,
+   "duration_s": 5.75,
+   "width": 1080,
+   "height": 1920,
+   "audio": false,
+   "title": {
+    "ru": "Диаграммы рассеяния",
+    "en": "Scattering diagrams"
+   }
+  },
+  {
+   "id": "feynman-scattering",
+   "variant": "web-quark-quark",
+   "version": 1,
+   "file": "feynman-scattering/web-quark-quark-v1.mp4",
+   "asset": "feynman-scattering--web-quark-quark--v1.mp4",
+   "release": "feynman-scattering",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/feynman-scattering/feynman-scattering--web-quark-quark--v1.mp4",
+   "sha256": "054181fb41c88f4962222ebe3d7528cfb1f7051c3d6761d542115401b2ac0bd8",
+   "bytes": 186321,
+   "duration_s": 5.75,
+   "width": 1080,
+   "height": 1920,
+   "audio": false,
+   "title": {
+    "ru": "Диаграммы рассеяния",
+    "en": "Scattering diagrams"
+   }
+  },
+  {
+   "id": "formula-cat",
+   "variant": "qr-particle-physics",
+   "version": 1,
+   "file": "formula-cat/qr-particle-physics-v1.mp4",
+   "asset": "formula-cat--qr-particle-physics--v1.mp4",
+   "release": "formula-cat",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/formula-cat/formula-cat--qr-particle-physics--v1.mp4",
+   "sha256": "c9a5d0f052d761848f38874782c068d130c91ba7393d1f933335d71b662c5b73",
+   "bytes": 1151325,
+   "duration_s": 7.2,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Формулы и кот",
+    "en": "Formulas and a cat"
+   }
+  },
+  {
+   "id": "humanity-cube",
+   "variant": "web-en",
+   "version": 1,
+   "file": "humanity-cube/web-en-v1.mp4",
+   "asset": "humanity-cube--web-en--v1.mp4",
+   "release": "humanity-cube",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/humanity-cube/humanity-cube--web-en--v1.mp4",
+   "sha256": "b71c6a598f117bbc43bade05a798c770884709c95bd6f2ff917fb214e9e687dd",
+   "bytes": 26363598,
+   "duration_s": 22.0,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Всё человечество в половине кубического километра",
+    "en": "All of humanity in half a cubic kilometre"
+   }
+  },
+  {
+   "id": "humanity-cube",
+   "variant": "web-ru",
+   "version": 1,
+   "file": "humanity-cube/web-ru-v1.mp4",
+   "asset": "humanity-cube--web-ru--v1.mp4",
+   "release": "humanity-cube",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/humanity-cube/humanity-cube--web-ru--v1.mp4",
+   "sha256": "df7f395444875185924377b6a9615e921dd2748ac4d6ac6967788ca565cf0a86",
+   "bytes": 25857659,
+   "duration_s": 22.0,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Всё человечество в половине кубического километра",
+    "en": "All of humanity in half a cubic kilometre"
+   }
+  },
+  {
+   "id": "icecube-first-pev",
+   "variant": "web-build-ru",
+   "version": 1,
+   "file": "icecube-first-pev/web-build-ru-v1.mp4",
+   "asset": "icecube-first-pev--web-build-ru--v1.mp4",
+   "release": "icecube-first-pev",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/icecube-first-pev/icecube-first-pev--web-build-ru--v1.mp4",
+   "sha256": "e637be5d420f79b8b42f715fe3f9e5ea4036d8bac9790054ef8ac5b963d6c045",
+   "bytes": 12274888,
+   "duration_s": 11.5,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "IceCube: первые нейтрино с энергией ПэВ",
+    "en": "IceCube: the first PeV neutrinos"
+   }
+  },
+  {
+   "id": "icecube-first-pev",
+   "variant": "web-en",
+   "version": 1,
+   "file": "icecube-first-pev/web-en-v1.mp4",
+   "asset": "icecube-first-pev--web-en--v1.mp4",
+   "release": "icecube-first-pev",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/icecube-first-pev/icecube-first-pev--web-en--v1.mp4",
+   "sha256": "33a3717fa2ae394c09670485ede56ac0e7c514f7afbffe42347d30819b1ee26f",
+   "bytes": 24732263,
+   "duration_s": 22.5,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "IceCube: первые нейтрино с энергией ПэВ",
+    "en": "IceCube: the first PeV neutrinos"
+   }
+  },
+  {
+   "id": "icecube-first-pev",
+   "variant": "web-ru",
+   "version": 1,
+   "file": "icecube-first-pev/web-ru-v1.mp4",
+   "asset": "icecube-first-pev--web-ru--v1.mp4",
+   "release": "icecube-first-pev",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/icecube-first-pev/icecube-first-pev--web-ru--v1.mp4",
+   "sha256": "262023615bf24ffb93b69c33c2c3b86674a7c3859d2491c1a2555fc77036864b",
+   "bytes": 24248454,
+   "duration_s": 22.5,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "IceCube: первые нейтрино с энергией ПэВ",
+    "en": "IceCube: the first PeV neutrinos"
+   }
+  },
+  {
+   "id": "interaction-gallery",
+   "variant": "qr-neutrino-physics",
+   "version": 1,
+   "file": "interaction-gallery/qr-neutrino-physics-v1.mp4",
+   "asset": "interaction-gallery--qr-neutrino-physics--v1.mp4",
+   "release": "interaction-gallery",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/interaction-gallery/interaction-gallery--qr-neutrino-physics--v1.mp4",
+   "sha256": "9b339f95b0c24d7a4f1fc5540368ce6cce1bf2c11aec2482b75f0e5b1d956920",
+   "bytes": 239765,
+   "duration_s": 5.75,
+   "width": 1280,
+   "height": 748,
+   "audio": false,
+   "title": {
+    "ru": "Три обменных взаимодействия",
+    "en": "Three exchange interactions"
+   }
+  },
+  {
+   "id": "jet-launch",
+   "variant": "web-en",
+   "version": 1,
+   "file": "jet-launch/web-en-v1.mp4",
+   "asset": "jet-launch--web-en--v1.mp4",
+   "release": "jet-launch",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/jet-launch/jet-launch--web-en--v1.mp4",
+   "sha256": "c2aa2673c2c0d809f742cbb0dcee87d79f6e1f588a853fe9372f7ff11506d168",
+   "bytes": 2245870,
+   "duration_s": 98.4,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "От звезды к джету: откуда берётся мощность",
+    "en": "From a star to a jet: where the power comes from"
+   }
+  },
+  {
+   "id": "jet-launch",
+   "variant": "web-ru",
+   "version": 1,
+   "file": "jet-launch/web-ru-v1.mp4",
+   "asset": "jet-launch--web-ru--v1.mp4",
+   "release": "jet-launch",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/jet-launch/jet-launch--web-ru--v1.mp4",
+   "sha256": "edc3e9cd28ca89c29cc2385894b467a2a5644ed31194e208f3319b6021329a8f",
+   "bytes": 2303505,
+   "duration_s": 98.4,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "От звезды к джету: откуда берётся мощность",
+    "en": "From a star to a jet: where the power comes from"
+   }
+  },
+  {
+   "id": "juno",
+   "variant": "web-survival",
+   "version": 1,
+   "file": "juno/web-survival-v1.mp4",
+   "asset": "juno--web-survival--v1.mp4",
+   "release": "juno",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/juno/juno--web-survival--v1.mp4",
+   "sha256": "88fbc11dc2da8d9d9d4fd87e839798ec82288ded49db15fda449d84ccf240a62",
+   "bytes": 11783324,
+   "duration_s": 212.3,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "JUNO",
+    "en": "JUNO"
+   }
+  },
+  {
+   "id": "juno-journey",
+   "variant": "web-short",
+   "version": 1,
+   "file": "juno-journey/web-short-v1.mp4",
+   "asset": "juno-journey--web-short--v1.mp4",
+   "release": "juno-journey",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/juno-journey/juno-journey--web-short--v1.mp4",
+   "sha256": "551d7fc75d8894c27268a260be0f2766aad4299894d6e5ddaaa1f11555e00cca",
+   "bytes": 51780044,
+   "duration_s": 60.0,
+   "width": 1080,
+   "height": 1920,
+   "audio": true,
+   "title": {
+    "ru": "Путешествие в JUNO",
+    "en": "A journey to JUNO"
+   }
+  },
+  {
+   "id": "kaon-oscillations",
+   "variant": "web-film-en",
+   "version": 1,
+   "file": "kaon-oscillations/web-film-en-v1.mp4",
+   "asset": "kaon-oscillations--web-film-en--v1.mp4",
+   "release": "kaon-oscillations",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/kaon-oscillations/kaon-oscillations--web-film-en--v1.mp4",
+   "sha256": "7fa0ad1a2da7738ef8d8831de2cff3c0a3465fa325f8289dfa5e81eb51ce793c",
+   "bytes": 3301483,
+   "duration_s": 103.0,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Осцилляции нейтральных каонов",
+    "en": "Neutral kaon oscillations"
+   }
+  },
+  {
+   "id": "kaon-oscillations",
+   "variant": "web-film-ru",
+   "version": 1,
+   "file": "kaon-oscillations/web-film-ru-v1.mp4",
+   "asset": "kaon-oscillations--web-film-ru--v1.mp4",
+   "release": "kaon-oscillations",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/kaon-oscillations/kaon-oscillations--web-film-ru--v1.mp4",
+   "sha256": "e25e1fd3a4e383ee9c5cdd2ea31ed0a1f861e2d98945b0bec0fad1f9bb5686bd",
+   "bytes": 3305518,
+   "duration_s": 103.0,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Осцилляции нейтральных каонов",
+    "en": "Neutral kaon oscillations"
+   }
+  },
+  {
+   "id": "lagrangian-scroll",
+   "variant": "qr-particle-physics",
+   "version": 1,
+   "file": "lagrangian-scroll/qr-particle-physics-v1.mp4",
+   "asset": "lagrangian-scroll--qr-particle-physics--v1.mp4",
+   "release": "lagrangian-scroll",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/lagrangian-scroll/lagrangian-scroll--qr-particle-physics--v1.mp4",
+   "sha256": "8aec940ca086aab4349e4e4e989b513520951e98083a3ee6f74589e774a5aec4",
+   "bytes": 3277570,
+   "duration_s": 35.0,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Лагранжиан Стандартной модели",
+    "en": "The Lagrangian of the Standard Model"
+   }
+  },
+  {
+   "id": "mac-e-filter",
+   "variant": "web-katrin-collimation",
+   "version": 1,
+   "file": "mac-e-filter/web-katrin-collimation-v1.mp4",
+   "asset": "mac-e-filter--web-katrin-collimation--v1.mp4",
+   "release": "mac-e-filter",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/mac-e-filter/mac-e-filter--web-katrin-collimation--v1.mp4",
+   "sha256": "9f7a548067dfc000646bdf8e8d92ddf1bcb61458d66a10e2663ffd683db7d463",
+   "bytes": 661367,
+   "duration_s": 14.0,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Электроны в магнитном поле и MAC-E-фильтр KATRIN",
+    "en": "Electrons in a magnetic field and the KATRIN MAC-E filter"
+   }
+  },
+  {
+   "id": "mac-e-filter",
+   "variant": "web-katrin-electric",
+   "version": 1,
+   "file": "mac-e-filter/web-katrin-electric-v1.mp4",
+   "asset": "mac-e-filter--web-katrin-electric--v1.mp4",
+   "release": "mac-e-filter",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/mac-e-filter/mac-e-filter--web-katrin-electric--v1.mp4",
+   "sha256": "38e2a39259349f3ba94e88aeb5e5792705f67e165166b024398395ce78717184",
+   "bytes": 770989,
+   "duration_s": 14.0,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Электроны в магнитном поле и MAC-E-фильтр KATRIN",
+    "en": "Electrons in a magnetic field and the KATRIN MAC-E filter"
+   }
+  },
+  {
+   "id": "mac-e-filter",
+   "variant": "web-uniform-field",
+   "version": 1,
+   "file": "mac-e-filter/web-uniform-field-v1.mp4",
+   "asset": "mac-e-filter--web-uniform-field--v1.mp4",
+   "release": "mac-e-filter",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/mac-e-filter/mac-e-filter--web-uniform-field--v1.mp4",
+   "sha256": "8904ff85456082c389f1e20d6f9c8d687f9d2c86b2f0022e03e889e3e4b3bef4",
+   "bytes": 1491500,
+   "duration_s": 14.0,
+   "width": 3840,
+   "height": 2160,
+   "audio": false,
+   "title": {
+    "ru": "Электроны в магнитном поле и MAC-E-фильтр KATRIN",
+    "en": "Electrons in a magnetic field and the KATRIN MAC-E filter"
+   }
+  },
+  {
+   "id": "mass-hierarchy",
+   "variant": "web-scales",
+   "version": 1,
+   "file": "mass-hierarchy/web-scales-v1.mp4",
+   "asset": "mass-hierarchy--web-scales--v1.mp4",
+   "release": "mass-hierarchy",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/mass-hierarchy/mass-hierarchy--web-scales--v1.mp4",
+   "sha256": "6a5dfef1acd007cf1b9b6d6d71ac8c59486c5fc659f4c388a4efc0167aeb6590",
+   "bytes": 470528,
+   "duration_s": 11.43,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Иерархия масс нейтрино",
+    "en": "Neutrino mass ordering"
+   }
+  },
+  {
+   "id": "mass-ordering",
+   "variant": "qr-neutrino-physics",
+   "version": 1,
+   "file": "mass-ordering/qr-neutrino-physics-v1.mp4",
+   "asset": "mass-ordering--qr-neutrino-physics--v1.mp4",
+   "release": "mass-ordering",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/mass-ordering/mass-ordering--qr-neutrino-physics--v1.mp4",
+   "sha256": "f17b6a19a8a4e88deea45e064fa102ef9af52c5d88282775e8059e8bcc4eefcd",
+   "bytes": 286857,
+   "duration_s": 11.43,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Порядок масс нейтрино",
+    "en": "The ordering of the neutrino masses"
+   }
+  },
+  {
+   "id": "milky-way-neutrinos",
+   "variant": "web-en",
+   "version": 1,
+   "file": "milky-way-neutrinos/web-en-v1.mp4",
+   "asset": "milky-way-neutrinos--web-en--v1.mp4",
+   "release": "milky-way-neutrinos",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/milky-way-neutrinos/milky-way-neutrinos--web-en--v1.mp4",
+   "sha256": "63deafbda783e2c1e7fc231930f5d5ebeda8a3fe66dd65997ab3490d4b06f334",
+   "bytes": 1313450,
+   "duration_s": 72.4,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Млечный Путь в нейтрино",
+    "en": "The Milky Way in neutrinos"
+   }
+  },
+  {
+   "id": "milky-way-neutrinos",
+   "variant": "web-ru",
+   "version": 1,
+   "file": "milky-way-neutrinos/web-ru-v1.mp4",
+   "asset": "milky-way-neutrinos--web-ru--v1.mp4",
+   "release": "milky-way-neutrinos",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/milky-way-neutrinos/milky-way-neutrinos--web-ru--v1.mp4",
+   "sha256": "4e109f40f37bdfb9949742167ead707a06a43b15a42b1eeaebb9f1f427bf4865",
+   "bytes": 1363816,
+   "duration_s": 72.4,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Млечный Путь в нейтрино",
+    "en": "The Milky Way in neutrinos"
+   }
+  },
+  {
+   "id": "msw-adiabatic-passage",
+   "variant": "qr-neutrino-physics",
+   "version": 1,
+   "file": "msw-adiabatic-passage/qr-neutrino-physics-v1.mp4",
+   "asset": "msw-adiabatic-passage--qr-neutrino-physics--v1.mp4",
+   "release": "msw-adiabatic-passage",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/msw-adiabatic-passage/msw-adiabatic-passage--qr-neutrino-physics--v1.mp4",
+   "sha256": "d105c069d524547ad8977c95156586b4fdd48ed157f9aead218b43426624662d",
+   "bytes": 131813,
+   "duration_s": 10.0,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Адиабатический и неадиабатический проход через MSW-резонанс",
+    "en": "Adiabatic and non-adiabatic passage through the MSW resonance"
+   }
+  },
+  {
+   "id": "msw-constant-matter",
+   "variant": "qr-neutrino-physics",
+   "version": 1,
+   "file": "msw-constant-matter/qr-neutrino-physics-v1.mp4",
+   "asset": "msw-constant-matter--qr-neutrino-physics--v1.mp4",
+   "release": "msw-constant-matter",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/msw-constant-matter/msw-constant-matter--qr-neutrino-physics--v1.mp4",
+   "sha256": "811a796ecd0e748ca24a3801110145e827ca707f6bfd040e8c836ae093d9db0f",
+   "bytes": 213396,
+   "duration_s": 10.0,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Вакуумные осцилляции, резонанс и подавление: механическая модель",
+    "en": "Vacuum oscillations, resonance and suppression: a mechanical model"
+   }
+  },
+  {
+   "id": "msw-control-equivalence",
+   "variant": "qr-neutrino-physics",
+   "version": 1,
+   "file": "msw-control-equivalence/qr-neutrino-physics-v1.mp4",
+   "asset": "msw-control-equivalence--qr-neutrino-physics--v1.mp4",
+   "release": "msw-control-equivalence",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/msw-control-equivalence/msw-control-equivalence--qr-neutrino-physics--v1.mp4",
+   "sha256": "94f20fc670a6e57db8c926f9f72bcc59fc83a2dc11398897cf1234ebc28e3af7",
+   "bytes": 196871,
+   "duration_s": 10.0,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Маятник переменной длины и маятник с ускоренной опорой",
+    "en": "A pendulum of variable length and a pendulum with an accelerated support"
+   }
+  },
+  {
+   "id": "msw-mode-cancellation",
+   "variant": "qr-neutrino-physics",
+   "version": 1,
+   "file": "msw-mode-cancellation/qr-neutrino-physics-v1.mp4",
+   "asset": "msw-mode-cancellation--qr-neutrino-physics--v1.mp4",
+   "release": "msw-mode-cancellation",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/msw-mode-cancellation/msw-mode-cancellation--qr-neutrino-physics--v1.mp4",
+   "sha256": "4da2fd1d1361c68f95391d1662da2d31243b89c62a3f3ed957b10b283ae94007",
+   "bytes": 814257,
+   "duration_s": 10.0,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Деструктивная интерференция амплитуд конечной моды $\\nu_1$",
+    "en": "Destructive interference of the amplitudes of the final mode $\\nu_1$"
+   }
+  },
+  {
+   "id": "msw-parametric",
+   "variant": "qr-neutrino-physics",
+   "version": 1,
+   "file": "msw-parametric/qr-neutrino-physics-v1.mp4",
+   "asset": "msw-parametric--qr-neutrino-physics--v1.mp4",
+   "release": "msw-parametric",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/msw-parametric/msw-parametric--qr-neutrino-physics--v1.mp4",
+   "sha256": "61f61790a29730bc043086779e75b08243ddb69a9035d45f1c21582aa5048ce0",
+   "bytes": 718495,
+   "duration_s": 30.1,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Параметрическое усиление в чередующихся слоях вещества",
+    "en": "Parametric amplification in alternating layers of matter"
+   }
+  },
+  {
+   "id": "msw-solar-exit-bases",
+   "variant": "qr-neutrino-physics",
+   "version": 1,
+   "file": "msw-solar-exit-bases/qr-neutrino-physics-v1.mp4",
+   "asset": "msw-solar-exit-bases--qr-neutrino-physics--v1.mp4",
+   "release": "msw-solar-exit-bases",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/msw-solar-exit-bases/msw-solar-exit-bases--qr-neutrino-physics--v1.mp4",
+   "sha256": "811a549cb685f598626793106caa5458bd24c0f2ef26bb606666d41db9faf3bf",
+   "bytes": 184384,
+   "duration_s": 10.0,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Солнечный адиабатический выход в трёх базисах",
+    "en": "The solar adiabatic exit in three bases"
+   }
+  },
+  {
+   "id": "msw-thin-layer-interference",
+   "variant": "qr-neutrino-physics",
+   "version": 1,
+   "file": "msw-thin-layer-interference/qr-neutrino-physics-v1.mp4",
+   "asset": "msw-thin-layer-interference--qr-neutrino-physics--v1.mp4",
+   "release": "msw-thin-layer-interference",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/msw-thin-layer-interference/msw-thin-layer-interference--qr-neutrino-physics--v1.mp4",
+   "sha256": "aff9421948a78851e772b33316a1b93bc37cf87f740ec7b588e8bbd85b879bd4",
+   "bytes": 1928643,
+   "duration_s": 10.0,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Интерференция волн и фазоров в тонком резонансном слое",
+    "en": "Interference of waves and phasors in a thin resonant layer"
+   }
+  },
+  {
+   "id": "neutrino-oscillation-phases",
+   "variant": "web-phases",
+   "version": 1,
+   "file": "neutrino-oscillation-phases/web-phases-v1.mp4",
+   "asset": "neutrino-oscillation-phases--web-phases--v1.mp4",
+   "release": "neutrino-oscillation-phases",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/neutrino-oscillation-phases/neutrino-oscillation-phases--web-phases--v1.mp4",
+   "sha256": "3bf39af736402c0b722f8a4d049bfc68ca322b392dd920b635f0c3947a6c5a95",
+   "bytes": 237198,
+   "duration_s": 6.3,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Осцилляции нейтрино с фазами",
+    "en": "Neutrino oscillations with phases"
+   }
+  },
+  {
+   "id": "neutrino-oscillations",
+   "variant": "web-electron",
+   "version": 1,
+   "file": "neutrino-oscillations/web-electron-v1.mp4",
+   "asset": "neutrino-oscillations--web-electron--v1.mp4",
+   "release": "neutrino-oscillations",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/neutrino-oscillations/neutrino-oscillations--web-electron--v1.mp4",
+   "sha256": "00c7f2974630adf0e2426d08ba152cde36b0932741ed09d28fea5cd18b10f067",
+   "bytes": 1550523,
+   "duration_s": 60.0,
+   "width": 1080,
+   "height": 1920,
+   "audio": false,
+   "title": {
+    "ru": "Нейтринные осцилляции",
+    "en": "Neutrino oscillations"
+   }
+  },
+  {
+   "id": "neutrino-oscillations",
+   "variant": "web-muon",
+   "version": 1,
+   "file": "neutrino-oscillations/web-muon-v1.mp4",
+   "asset": "neutrino-oscillations--web-muon--v1.mp4",
+   "release": "neutrino-oscillations",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/neutrino-oscillations/neutrino-oscillations--web-muon--v1.mp4",
+   "sha256": "ad6f4cc8daebea1342116bce8e2251bbf298fbedd5b3441ceb2bcd58674f80f6",
+   "bytes": 2226725,
+   "duration_s": 60.0,
+   "width": 1080,
+   "height": 1920,
+   "audio": false,
+   "title": {
+    "ru": "Нейтринные осцилляции",
+    "en": "Neutrino oscillations"
+   }
+  },
+  {
+   "id": "neutrino-oscillations",
+   "variant": "web-tau",
+   "version": 1,
+   "file": "neutrino-oscillations/web-tau-v1.mp4",
+   "asset": "neutrino-oscillations--web-tau--v1.mp4",
+   "release": "neutrino-oscillations",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/neutrino-oscillations/neutrino-oscillations--web-tau--v1.mp4",
+   "sha256": "ad32c19fc62336c04b1bc8f95471c2f2811497ddd636e949ef43a4d92c819c89",
+   "bytes": 2178690,
+   "duration_s": 60.0,
+   "width": 1080,
+   "height": 1920,
+   "audio": false,
+   "title": {
+    "ru": "Нейтринные осцилляции",
+    "en": "Neutrino oscillations"
+   }
+  },
+  {
+   "id": "neutrino-oscillations",
+   "variant": "web-triangle",
+   "version": 1,
+   "file": "neutrino-oscillations/web-triangle-v1.mp4",
+   "asset": "neutrino-oscillations--web-triangle--v1.mp4",
+   "release": "neutrino-oscillations",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/neutrino-oscillations/neutrino-oscillations--web-triangle--v1.mp4",
+   "sha256": "57e721a0d9b9d2e38a87cae2aa6f256671aed8dbbb1382144ef0507733545e2b",
+   "bytes": 1602420,
+   "duration_s": 60.0,
+   "width": 1080,
+   "height": 1920,
+   "audio": false,
+   "title": {
+    "ru": "Нейтринные осцилляции",
+    "en": "Neutrino oscillations"
+   }
+  },
+  {
+   "id": "neutrino-reconstruction",
+   "variant": "web-en",
+   "version": 1,
+   "file": "neutrino-reconstruction/web-en-v1.mp4",
+   "asset": "neutrino-reconstruction--web-en--v1.mp4",
+   "release": "neutrino-reconstruction",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/neutrino-reconstruction/neutrino-reconstruction--web-en--v1.mp4",
+   "sha256": "ae7a34929bffb57dfb5ae3558cf76828c7e8d099e73ff473f248fe4e4e67253d",
+   "bytes": 1008683,
+   "duration_s": 48.0,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Как восстановить невидимый трек мюона",
+    "en": "Reconstructing an invisible muon track"
+   }
+  },
+  {
+   "id": "neutrino-telescope",
+   "variant": "web-electron-en",
+   "version": 1,
+   "file": "neutrino-telescope/web-electron-en-v1.mp4",
+   "asset": "neutrino-telescope--web-electron-en--v1.mp4",
+   "release": "neutrino-telescope",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/neutrino-telescope/neutrino-telescope--web-electron-en--v1.mp4",
+   "sha256": "86ecfaad8acb0c44241aba347439912fb51f24a4e58805f52b93838eafa7e272",
+   "bytes": 804328,
+   "duration_s": 20.0,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Черенковский свет: мюон и электронный каскад",
+    "en": "Cherenkov light: a muon and an electron cascade"
+   }
+  },
+  {
+   "id": "neutrino-telescope",
+   "variant": "web-muon-en",
+   "version": 1,
+   "file": "neutrino-telescope/web-muon-en-v1.mp4",
+   "asset": "neutrino-telescope--web-muon-en--v1.mp4",
+   "release": "neutrino-telescope",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/neutrino-telescope/neutrino-telescope--web-muon-en--v1.mp4",
+   "sha256": "1472409961c8f036001ad1b5835786e1918cb8f86bc35884327bd798a6c0b4db",
+   "bytes": 931519,
+   "duration_s": 20.0,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Черенковский свет: мюон и электронный каскад",
+    "en": "Cherenkov light: a muon and an electron cascade"
+   }
+  },
+  {
+   "id": "nu-gamma-cascade",
+   "variant": "web-en",
+   "version": 1,
+   "file": "nu-gamma-cascade/web-en-v1.mp4",
+   "asset": "nu-gamma-cascade--web-en--v1.mp4",
+   "release": "nu-gamma-cascade",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/nu-gamma-cascade/nu-gamma-cascade--web-en--v1.mp4",
+   "sha256": "b0d147340fcae302d56e1cffef37e87d5df52faf6486a09a780bcc5ff1ae81b6",
+   "bytes": 6218874,
+   "duration_s": 66.4,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Где гамма-кванты?",
+    "en": "Where are the gamma rays?"
+   }
+  },
+  {
+   "id": "nu-gamma-cascade",
+   "variant": "web-ru",
+   "version": 1,
+   "file": "nu-gamma-cascade/web-ru-v1.mp4",
+   "asset": "nu-gamma-cascade--web-ru--v1.mp4",
+   "release": "nu-gamma-cascade",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/nu-gamma-cascade/nu-gamma-cascade--web-ru--v1.mp4",
+   "sha256": "5657171dd40bdb35d04857710d124779dbab063de7a6def9bd9285e908c5aac0",
+   "bytes": 6279229,
+   "duration_s": 66.4,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Где гамма-кванты?",
+    "en": "Where are the gamma rays?"
+   }
+  },
+  {
+   "id": "nucleus-shapes",
+   "variant": "web-shape-morphs",
+   "version": 1,
+   "file": "nucleus-shapes/web-shape-morphs-v1.mp4",
+   "asset": "nucleus-shapes--web-shape-morphs--v1.mp4",
+   "release": "nucleus-shapes",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/nucleus-shapes/nucleus-shapes--web-shape-morphs--v1.mp4",
+   "sha256": "1168b0788261e90a4e26c847f677650f516b0b3a21b824aa2c48318357af558b",
+   "bytes": 1227375,
+   "duration_s": 9.65,
+   "width": 684,
+   "height": 854,
+   "audio": false,
+   "title": {
+    "ru": "Формы ядер",
+    "en": "Shapes of nuclei"
+   }
+  },
+  {
+   "id": "parton-cascade",
+   "variant": "web-en",
+   "version": 1,
+   "file": "parton-cascade/web-en-v1.mp4",
+   "asset": "parton-cascade--web-en--v1.mp4",
+   "release": "parton-cascade",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/parton-cascade/parton-cascade--web-en--v1.mp4",
+   "sha256": "7079fe6256a54af8e7e1dec248a77e94f3854795da6d27975b41851dc3307820",
+   "bytes": 54369719,
+   "duration_s": 100.0,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Внутренняя жизнь протона",
+    "en": "The inner life of the proton"
+   }
+  },
+  {
+   "id": "parton-cascade",
+   "variant": "web-ru",
+   "version": 1,
+   "file": "parton-cascade/web-ru-v1.mp4",
+   "asset": "parton-cascade--web-ru--v1.mp4",
+   "release": "parton-cascade",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/parton-cascade/parton-cascade--web-ru--v1.mp4",
+   "sha256": "509c0408c2b81a782100e961de71f5559af1e0046852e8cb9ab71f35e9c035c2",
+   "bytes": 54386210,
+   "duration_s": 100.0,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Внутренняя жизнь протона",
+    "en": "The inner life of the proton"
+   }
+  },
+  {
+   "id": "pi0-double-dalitz",
+   "variant": "web-planes-en",
+   "version": 1,
+   "file": "pi0-double-dalitz/web-planes-en-v1.mp4",
+   "asset": "pi0-double-dalitz--web-planes-en--v1.mp4",
+   "release": "pi0-double-dalitz",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/pi0-double-dalitz/pi0-double-dalitz--web-planes-en--v1.mp4",
+   "sha256": "b7d02a5574728c3e35dee7066412dc9a5335638c42cc9bf8f3db65b4fbd43b7d",
+   "bytes": 1533358,
+   "duration_s": 54.0,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Распад π⁰ → e⁺e⁻e⁺e⁻",
+    "en": "The decay π⁰ → e⁺e⁻e⁺e⁻"
+   }
+  },
+  {
+   "id": "pi0-double-dalitz",
+   "variant": "web-planes-ru",
+   "version": 1,
+   "file": "pi0-double-dalitz/web-planes-ru-v1.mp4",
+   "asset": "pi0-double-dalitz--web-planes-ru--v1.mp4",
+   "release": "pi0-double-dalitz",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/pi0-double-dalitz/pi0-double-dalitz--web-planes-ru--v1.mp4",
+   "sha256": "252cc9193f0ed2563c211b9378b67caf5ef3194819cefbe261d8140549dabd59",
+   "bytes": 1548165,
+   "duration_s": 54.0,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Распад π⁰ → e⁺e⁻e⁺e⁻",
+    "en": "The decay π⁰ → e⁺e⁻e⁺e⁻"
+   }
+  },
+  {
+   "id": "pmt",
+   "variant": "web-schematic",
+   "version": 1,
+   "file": "pmt/web-schematic-v1.mp4",
+   "asset": "pmt--web-schematic--v1.mp4",
+   "release": "pmt",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/pmt/pmt--web-schematic--v1.mp4",
+   "sha256": "a57b5f4b82eef2161a75b0a0a8f75c31fcbba8fa91cc0b91afa31d7890588cc9",
+   "bytes": 2024004,
+   "duration_s": 19.65,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Фотоумножитель",
+    "en": "Photomultiplier"
+   }
+  },
+  {
+   "id": "pmt-multiplication",
+   "variant": "web-avalanche-en",
+   "version": 1,
+   "file": "pmt-multiplication/web-avalanche-en-v1.mp4",
+   "asset": "pmt-multiplication--web-avalanche-en--v1.mp4",
+   "release": "pmt-multiplication",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/pmt-multiplication/pmt-multiplication--web-avalanche-en--v1.mp4",
+   "sha256": "e4dede002b5602fd5472d7b486b74cd1f61f8950071eb36759e7f0a3fdaea52c",
+   "bytes": 1124385,
+   "duration_s": 40.0,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Умножение электронов в ФЭУ",
+    "en": "Electron multiplication in a PMT"
+   }
+  },
+  {
+   "id": "pmt-multiplication",
+   "variant": "web-avalanche-ru",
+   "version": 1,
+   "file": "pmt-multiplication/web-avalanche-ru-v1.mp4",
+   "asset": "pmt-multiplication--web-avalanche-ru--v1.mp4",
+   "release": "pmt-multiplication",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/pmt-multiplication/pmt-multiplication--web-avalanche-ru--v1.mp4",
+   "sha256": "ac863299fab3decf91a43189a75b3df6a07fbb3b4927c203a7dc089dc5425463",
+   "bytes": 1140084,
+   "duration_s": 40.0,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Умножение электронов в ФЭУ",
+    "en": "Electron multiplication in a PMT"
+   }
+  },
+  {
+   "id": "pp-cycle",
+   "variant": "web-d-p-he3",
+   "version": 1,
+   "file": "pp-cycle/web-d-p-he3-v1.mp4",
+   "asset": "pp-cycle--web-d-p-he3--v1.mp4",
+   "release": "pp-cycle",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/pp-cycle/pp-cycle--web-d-p-he3--v1.mp4",
+   "sha256": "377431cfe89f421c88280fceebaf0f9eb3797a41ea86f5b1ab39df32596e2768",
+   "bytes": 164591,
+   "duration_s": 10.3,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Протон-протонный цикл",
+    "en": "The proton–proton chain"
+   }
+  },
+  {
+   "id": "pp-cycle",
+   "variant": "web-he3-he3",
+   "version": 1,
+   "file": "pp-cycle/web-he3-he3-v1.mp4",
+   "asset": "pp-cycle--web-he3-he3--v1.mp4",
+   "release": "pp-cycle",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/pp-cycle/pp-cycle--web-he3-he3--v1.mp4",
+   "sha256": "292453172decaa907f14f2d98d2ce890dd899fc9dad72a4f3e4ed1aef8827804",
+   "bytes": 187872,
+   "duration_s": 11.85,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Протон-протонный цикл",
+    "en": "The proton–proton chain"
+   }
+  },
+  {
+   "id": "pp-cycle",
+   "variant": "web-pp-to-d",
+   "version": 1,
+   "file": "pp-cycle/web-pp-to-d-v1.mp4",
+   "asset": "pp-cycle--web-pp-to-d--v1.mp4",
+   "release": "pp-cycle",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/pp-cycle/pp-cycle--web-pp-to-d--v1.mp4",
+   "sha256": "d06b805fe79fc6dbdcb5ef1163c550012bb3b8abea0b78cd4410a50c3ad91173",
+   "bytes": 210356,
+   "duration_s": 12.0,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Протон-протонный цикл",
+    "en": "The proton–proton chain"
+   }
+  },
+  {
+   "id": "project8-cres",
+   "variant": "qr-neutrino-physics",
+   "version": 1,
+   "file": "project8-cres/qr-neutrino-physics-v1.mp4",
+   "asset": "project8-cres--qr-neutrino-physics--v1.mp4",
+   "release": "project8-cres",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/project8-cres/project8-cres--qr-neutrino-physics--v1.mp4",
+   "sha256": "d42a4f34a43fea37833b3f3432d0a1954e90c1ad469ce2b080de878e88a65aca",
+   "bytes": 520636,
+   "duration_s": 13.8,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Project 8: один электрон — один частотный трек",
+    "en": "Project 8: one electron, one frequency track"
+   }
+  },
+  {
+   "id": "project8-cres",
+   "variant": "web-cres-event",
+   "version": 1,
+   "file": "project8-cres/web-cres-event-v1.mp4",
+   "asset": "project8-cres--web-cres-event--v1.mp4",
+   "release": "project8-cres",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/project8-cres/project8-cres--web-cres-event--v1.mp4",
+   "sha256": "fd806de083fc6b9924defed3fad998011bb23ee2ddbaa46c6c1565ed17b13366",
+   "bytes": 850183,
+   "duration_s": 13.8,
+   "width": 1600,
+   "height": 900,
+   "audio": false,
+   "title": {
+    "ru": "Project 8: циклотронное излучение электрона",
+    "en": "Project 8: cyclotron radiation of an electron"
+   }
+  },
+  {
+   "id": "qcd-spring",
+   "variant": "qr-particle-physics",
+   "version": 1,
+   "file": "qcd-spring/qr-particle-physics-v1.mp4",
+   "asset": "qcd-spring--qr-particle-physics--v1.mp4",
+   "release": "qcd-spring",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/qcd-spring/qcd-spring--qr-particle-physics--v1.mp4",
+   "sha256": "26d7a0d570803411c4c46db031aa6acd65217380ae7dff5627aa2c779cec6301",
+   "bytes": 466872,
+   "duration_s": 4.6,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Сильное взаимодействие: образ пружинки",
+    "en": "The strong force: the image of a spring"
+   }
+  },
+  {
+   "id": "quantum-chameleon",
+   "variant": "qr-neutrino-physics",
+   "version": 1,
+   "file": "quantum-chameleon/qr-neutrino-physics-v1.mp4",
+   "asset": "quantum-chameleon--qr-neutrino-physics--v1.mp4",
+   "release": "quantum-chameleon",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/quantum-chameleon/quantum-chameleon--qr-neutrino-physics--v1.mp4",
+   "sha256": "27b0f0e3f1a8f61cbfdac9f25f9090cb06b4b59c91266360e1fa8ebc5016595b",
+   "bytes": 1797577,
+   "duration_s": 30.0,
+   "width": 1128,
+   "height": 584,
+   "audio": false,
+   "title": {
+    "ru": "Квантовый хамелеон",
+    "en": "The quantum chameleon"
+   }
+  },
+  {
+   "id": "quantum-chameleon-phases",
+   "variant": "qr-neutrino-physics",
+   "version": 1,
+   "file": "quantum-chameleon-phases/qr-neutrino-physics-v1.mp4",
+   "asset": "quantum-chameleon-phases--qr-neutrino-physics--v1.mp4",
+   "release": "quantum-chameleon-phases",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/quantum-chameleon-phases/quantum-chameleon-phases--qr-neutrino-physics--v1.mp4",
+   "sha256": "0ec989729c7b35d8117eb6b0cd296b9488fa54a987a7b44a70169f2bbccde2cf",
+   "bytes": 144570,
+   "duration_s": 6.3,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Нейтрино как квантовый хамелеон",
+    "en": "Neutrino as a quantum chameleon"
+   }
+  },
+  {
+   "id": "quark-quark-scattering",
+   "variant": "qr-neutrino-physics",
+   "version": 1,
+   "file": "quark-quark-scattering/qr-neutrino-physics-v1.mp4",
+   "asset": "quark-quark-scattering--qr-neutrino-physics--v1.mp4",
+   "release": "quark-quark-scattering",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/quark-quark-scattering/quark-quark-scattering--qr-neutrino-physics--v1.mp4",
+   "sha256": "e31a8790a099ba762c5fb3b96666e9ccd346dd878a70b9033e35b7f37271fe38",
+   "bytes": 111982,
+   "duration_s": 5.75,
+   "width": 720,
+   "height": 1280,
+   "audio": false,
+   "title": {
+    "ru": "Рассеяние $qq\\to qq$ с обменом глюоном",
+    "en": "$qq\\to qq$ scattering with a gluon exchange"
+   }
+  },
+  {
+   "id": "radiating-charge",
+   "variant": "qr-particle-physics",
+   "version": 1,
+   "file": "radiating-charge/qr-particle-physics-v1.mp4",
+   "asset": "radiating-charge--qr-particle-physics--v1.mp4",
+   "release": "radiating-charge",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/radiating-charge/radiating-charge--qr-particle-physics--v1.mp4",
+   "sha256": "85b3d3f0db056212a12a7379d3b81ac185827a507eefdeacd7f2905441ff3bd4",
+   "bytes": 185718,
+   "duration_s": 11.79,
+   "width": 1280,
+   "height": 722,
+   "audio": false,
+   "title": {
+    "ru": "Излучение ускоренного заряда",
+    "en": "The radiation of an accelerated charge"
+   }
+  },
+  {
+   "id": "scale-ladder",
+   "variant": "qr-particle-physics",
+   "version": 1,
+   "file": "scale-ladder/qr-particle-physics-v1.mp4",
+   "asset": "scale-ladder--qr-particle-physics--v1.mp4",
+   "release": "scale-ladder",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/scale-ladder/scale-ladder--qr-particle-physics--v1.mp4",
+   "sha256": "b167fc2de27a81d99b0c5b27c9fbcef60b020e576b693563048d70780aca528e",
+   "bytes": 150993,
+   "duration_s": 4.6,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Лестница масштабов",
+    "en": "The ladder of scales"
+   }
+  },
+  {
+   "id": "scattering-experiment",
+   "variant": "web-collider-en",
+   "version": 1,
+   "file": "scattering-experiment/web-collider-en-v1.mp4",
+   "asset": "scattering-experiment--web-collider-en--v1.mp4",
+   "release": "scattering-experiment",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/scattering-experiment/scattering-experiment--web-collider-en--v1.mp4",
+   "sha256": "c4382df7321935e445ed2b997002a31bdf9aa8dc0f4f43a7c0fb015fa0b20024",
+   "bytes": 3013612,
+   "duration_s": 28.0,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Эксперимент по рассеянию: e⁺e⁻ → μ⁺μ⁻",
+    "en": "A scattering experiment: e⁺e⁻ → μ⁺μ⁻"
+   }
+  },
+  {
+   "id": "scattering-experiment",
+   "variant": "web-collider-ru",
+   "version": 1,
+   "file": "scattering-experiment/web-collider-ru-v1.mp4",
+   "asset": "scattering-experiment--web-collider-ru--v1.mp4",
+   "release": "scattering-experiment",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/scattering-experiment/scattering-experiment--web-collider-ru--v1.mp4",
+   "sha256": "102b346029888ba3edf13bbba3dc25ceccc76ca84c570b0e9d0c0b1cf2364607",
+   "bytes": 2999587,
+   "duration_s": 28.0,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Эксперимент по рассеянию: e⁺e⁻ → μ⁺μ⁻",
+    "en": "A scattering experiment: e⁺e⁻ → μ⁺μ⁻"
+   }
+  },
+  {
+   "id": "solar-photon-diffusion",
+   "variant": "web-en",
+   "version": 1,
+   "file": "solar-photon-diffusion/web-en-v1.mp4",
+   "asset": "solar-photon-diffusion--web-en--v1.mp4",
+   "release": "solar-photon-diffusion",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/solar-photon-diffusion/solar-photon-diffusion--web-en--v1.mp4",
+   "sha256": "f121d12dd4e2485f99084b5775ba69bc3aa1a29db6fd589907be634a5d3f394f",
+   "bytes": 5369860,
+   "duration_s": 59.9,
+   "width": 1080,
+   "height": 1920,
+   "audio": true,
+   "title": {
+    "ru": "Как свет выходит из Солнца",
+    "en": "How light escapes the Sun"
+   }
+  },
+  {
+   "id": "solar-photon-diffusion",
+   "variant": "web-ru",
+   "version": 1,
+   "file": "solar-photon-diffusion/web-ru-v1.mp4",
+   "asset": "solar-photon-diffusion--web-ru--v1.mp4",
+   "release": "solar-photon-diffusion",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/solar-photon-diffusion/solar-photon-diffusion--web-ru--v1.mp4",
+   "sha256": "66702f82e20baa65a060a75d61d46167691a13dfb78f9ec2ea0fe456a6421418",
+   "bytes": 5336047,
+   "duration_s": 59.9,
+   "width": 1080,
+   "height": 1920,
+   "audio": true,
+   "title": {
+    "ru": "Как свет выходит из Солнца",
+    "en": "How light escapes the Sun"
+   }
+  },
+  {
+   "id": "source-emerges",
+   "variant": "web-en",
+   "version": 1,
+   "file": "source-emerges/web-en-v1.mp4",
+   "asset": "source-emerges--web-en--v1.mp4",
+   "release": "source-emerges",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/source-emerges/source-emerges--web-en--v1.mp4",
+   "sha256": "1d103f623bd3dbfa7f1f39819573657e6e46c0b8524c0d8db4bb9809a40489dd",
+   "bytes": 1465728,
+   "duration_s": 57.4,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Источник проступает",
+    "en": "A source emerges"
+   }
+  },
+  {
+   "id": "source-emerges",
+   "variant": "web-ru",
+   "version": 1,
+   "file": "source-emerges/web-ru-v1.mp4",
+   "asset": "source-emerges--web-ru--v1.mp4",
+   "release": "source-emerges",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/source-emerges/source-emerges--web-ru--v1.mp4",
+   "sha256": "9a3906b05340f86ffb357b508b472a2673a69e68be314dd4e4f4f53b308096c1",
+   "bytes": 1471886,
+   "duration_s": 57.4,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Источник проступает",
+    "en": "A source emerges"
+   }
+  },
+  {
+   "id": "spin",
+   "variant": "qr-neutrino-physics",
+   "version": 1,
+   "file": "spin/qr-neutrino-physics-v1.mp4",
+   "asset": "spin--qr-neutrino-physics--v1.mp4",
+   "release": "spin",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/spin/spin--qr-neutrino-physics--v1.mp4",
+   "sha256": "c2f16f31c68709790825f605fba6d309ad17e3afe865b0a23ebb25dd09a1a226",
+   "bytes": 7987860,
+   "duration_s": 40.4,
+   "width": 428,
+   "height": 304,
+   "audio": false,
+   "title": {
+    "ru": "Спин и вращение",
+    "en": "Spin and rotation"
+   }
+  },
+  {
+   "id": "standard-model-finale",
+   "variant": "qr-particle-physics",
+   "version": 1,
+   "file": "standard-model-finale/qr-particle-physics-v1.mp4",
+   "asset": "standard-model-finale--qr-particle-physics--v1.mp4",
+   "release": "standard-model-finale",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/standard-model-finale/standard-model-finale--qr-particle-physics--v1.mp4",
+   "sha256": "70970be626df6bc95f987a3fda8ed7e294079b02ec0637b9cc58e2547bea6442",
+   "bytes": 255408,
+   "duration_s": 10.0,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Стандартная модель как машина согласованности",
+    "en": "The Standard Model as a consistency machine"
+   }
+  },
+  {
+   "id": "standard-model-particles",
+   "variant": "qr-particle-physics",
+   "version": 1,
+   "file": "standard-model-particles/qr-particle-physics-v1.mp4",
+   "asset": "standard-model-particles--qr-particle-physics--v1.mp4",
+   "release": "standard-model-particles",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/standard-model-particles/standard-model-particles--qr-particle-physics--v1.mp4",
+   "sha256": "4bf7137a84fa8695fc8a36951009b37e5ca8161a7a928c08d8b3c5e92f3ba8ba",
+   "bytes": 83460,
+   "duration_s": 4.2,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Частицы Стандартной модели",
+    "en": "The particles of the Standard Model"
+   }
+  },
+  {
+   "id": "star-in-jet",
+   "variant": "film-en",
+   "version": 1,
+   "file": "star-in-jet/film-en-v1.mp4",
+   "asset": "star-in-jet--film-en--v1.mp4",
+   "release": "star-in-jet",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/star-in-jet/star-in-jet--film-en--v1.mp4",
+   "sha256": "5bfca727909455c5130b116563be3718b9850223ad8a2159fd153cb15318602b",
+   "bytes": 78301889,
+   "duration_s": 97.4,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Звезда в джете: один из способов родить нейтрино",
+    "en": "A star in the jet: one way to make neutrinos"
+   }
+  },
+  {
+   "id": "star-in-jet",
+   "variant": "film-ru",
+   "version": 1,
+   "file": "star-in-jet/film-ru-v1.mp4",
+   "asset": "star-in-jet--film-ru--v1.mp4",
+   "release": "star-in-jet",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/star-in-jet/star-in-jet--film-ru--v1.mp4",
+   "sha256": "a26ea9b0cb07234532bca4575e4eee2c80cf99bfd46a28afcead73cbf9789be3",
+   "bytes": 77901655,
+   "duration_s": 97.4,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Звезда в джете: один из способов родить нейтрино",
+    "en": "A star in the jet: one way to make neutrinos"
+   }
+  },
+  {
+   "id": "star-in-jet",
+   "variant": "web-en",
+   "version": 1,
+   "file": "star-in-jet/web-en-v1.mp4",
+   "asset": "star-in-jet--web-en--v1.mp4",
+   "release": "star-in-jet",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/star-in-jet/star-in-jet--web-en--v1.mp4",
+   "sha256": "fb0fa3573828378a6e2ffd973512483b85156e8973dffb399a8775372867895c",
+   "bytes": 4478128,
+   "duration_s": 97.4,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Звезда в джете: один из способов родить нейтрино",
+    "en": "A star in the jet: one way to make neutrinos"
+   }
+  },
+  {
+   "id": "star-in-jet",
+   "variant": "web-ru",
+   "version": 1,
+   "file": "star-in-jet/web-ru-v1.mp4",
+   "asset": "star-in-jet--web-ru--v1.mp4",
+   "release": "star-in-jet",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/star-in-jet/star-in-jet--web-ru--v1.mp4",
+   "sha256": "641fca7435807c947b4b09ca5ec2c465fc6f62283ca8737ffd48a14df3907ec0",
+   "bytes": 4510153,
+   "duration_s": 97.4,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Звезда в джете: один из способов родить нейтрино",
+    "en": "A star in the jet: one way to make neutrinos"
+   }
+  },
+  {
+   "id": "telescope-events",
+   "variant": "web-cascade-response",
+   "version": 1,
+   "file": "telescope-events/web-cascade-response-v1.mp4",
+   "asset": "telescope-events--web-cascade-response--v1.mp4",
+   "release": "telescope-events",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/telescope-events/telescope-events--web-cascade-response--v1.mp4",
+   "sha256": "9c1f2099f31ce97ac396c69ab8c3ed1df425af738f5fcd71c2475156062390bd",
+   "bytes": 8406322,
+   "duration_s": 17.5,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Свет нейтринного события в телескопе",
+    "en": "The light of a neutrino event in a telescope"
+   }
+  },
+  {
+   "id": "telescope-events",
+   "variant": "web-muon-response",
+   "version": 1,
+   "file": "telescope-events/web-muon-response-v1.mp4",
+   "asset": "telescope-events--web-muon-response--v1.mp4",
+   "release": "telescope-events",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/telescope-events/telescope-events--web-muon-response--v1.mp4",
+   "sha256": "f9a6083a720c7cc46c36cacd77d39b01dbe4755bdf7c9b90e8abff0a09142fcc",
+   "bytes": 11407475,
+   "duration_s": 17.5,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Свет нейтринного события в телескопе",
+    "en": "The light of a neutrino event in a telescope"
+   }
+  },
+  {
+   "id": "telescope-events",
+   "variant": "web-nue-cc",
+   "version": 1,
+   "file": "telescope-events/web-nue-cc-v1.mp4",
+   "asset": "telescope-events--web-nue-cc--v1.mp4",
+   "release": "telescope-events",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/telescope-events/telescope-events--web-nue-cc--v1.mp4",
+   "sha256": "5bfc6779e8bf8e2df4c5d7c4ef8fc41ad2d83a3e10b7911c655fd2e46e2de194",
+   "bytes": 5654234,
+   "duration_s": 17.5,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Свет нейтринного события в телескопе",
+    "en": "The light of a neutrino event in a telescope"
+   }
+  },
+  {
+   "id": "telescope-events",
+   "variant": "web-numu-cc",
+   "version": 1,
+   "file": "telescope-events/web-numu-cc-v1.mp4",
+   "asset": "telescope-events--web-numu-cc--v1.mp4",
+   "release": "telescope-events",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/telescope-events/telescope-events--web-numu-cc--v1.mp4",
+   "sha256": "c1d1bde9bc8956c05d19027b196a76d03894cde364ab1750ee2673097af2eb08",
+   "bytes": 8653209,
+   "duration_s": 17.5,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Свет нейтринного события в телескопе",
+    "en": "The light of a neutrino event in a telescope"
+   }
+  },
+  {
+   "id": "why-particle-physics",
+   "variant": "qr-particle-physics",
+   "version": 1,
+   "file": "why-particle-physics/qr-particle-physics-v1.mp4",
+   "asset": "why-particle-physics--qr-particle-physics--v1.mp4",
+   "release": "why-particle-physics",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/why-particle-physics/why-particle-physics--qr-particle-physics--v1.mp4",
+   "sha256": "0cbb9c93d8f60a84d660bc04ce2b4e8bed47ee4d351cbfbc47686fbbbf3a796a",
+   "bytes": 186925,
+   "duration_s": 6.2,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Эксперимент и теория",
+    "en": "Experiment and theory"
+   }
+  },
+  {
+   "id": "z-decay-asymmetry",
+   "variant": "web-film-en",
+   "version": 1,
+   "file": "z-decay-asymmetry/web-film-en-v1.mp4",
+   "asset": "z-decay-asymmetry--web-film-en--v1.mp4",
+   "release": "z-decay-asymmetry",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/z-decay-asymmetry/z-decay-asymmetry--web-film-en--v1.mp4",
+   "sha256": "01139cc46dbcb23faa286afa2f3bd9d56c809c3f0b2ab830120a80fd2ceb3d43",
+   "bytes": 1809474,
+   "duration_s": 97.0,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Асимметрия в рождении и распаде Z-бозона",
+    "en": "Asymmetry in Z boson production and decay"
+   }
+  },
+  {
+   "id": "z-decay-asymmetry",
+   "variant": "web-film-ru",
+   "version": 1,
+   "file": "z-decay-asymmetry/web-film-ru-v1.mp4",
+   "asset": "z-decay-asymmetry--web-film-ru--v1.mp4",
+   "release": "z-decay-asymmetry",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/z-decay-asymmetry/z-decay-asymmetry--web-film-ru--v1.mp4",
+   "sha256": "ec365162b0425d6d0b622efac581b108da52e08eb4a675279440ef6c5503dc03",
+   "bytes": 1822944,
+   "duration_s": 97.0,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Асимметрия в рождении и распаде Z-бозона",
+    "en": "Asymmetry in Z boson production and decay"
+   }
+  }
+ ]
+}
