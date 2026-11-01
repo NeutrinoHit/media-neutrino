@@ -6,6 +6,25 @@
  "media": [
   {
    "id": "air-shower",
+   "variant": "film",
+   "version": 1,
+   "file": "air-shower/film-v1.mp4",
+   "asset": "air-shower--film--v1.mp4",
+   "release": "air-shower",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/air-shower/air-shower--film--v1.mp4",
+   "sha256": "33a3af496a3105a80098056d796e88cf4f84058038696a75382cbf87564026cb",
+   "bytes": 705408,
+   "duration_s": 3.15,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Широкий атмосферный ливень",
+    "en": "Extensive air shower"
+   }
+  },
+  {
+   "id": "air-shower",
    "variant": "web-en",
    "version": 1,
    "file": "air-shower/web-en-v1.mp4",
@@ -139,6 +158,25 @@
   },
   {
    "id": "coupled-oscillators",
+   "variant": "film-baikal",
+   "version": 1,
+   "file": "coupled-oscillators/film-baikal-v1.mp4",
+   "asset": "coupled-oscillators--film-baikal--v1.mp4",
+   "release": "coupled-oscillators",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/coupled-oscillators/coupled-oscillators--film-baikal--v1.mp4",
+   "sha256": "f27e9a02d48bc6b4619082c832f4afcb4aef4ed76b3a9cd5d2c471c57c4cbed5",
+   "bytes": 20127015,
+   "duration_s": 44.7,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Аналогия: связанные осцилляторы",
+    "en": "An analogy: coupled oscillators"
+   }
+  },
+  {
+   "id": "coupled-oscillators",
    "variant": "qr-neutrino-physics",
    "version": 1,
    "file": "coupled-oscillators/qr-neutrino-physics-v1.mp4",
@@ -192,6 +230,25 @@
    "title": {
     "ru": "Сечение: поток и прицельный параметр",
     "en": "The cross section: a flux and the impact parameter"
+   }
+  },
+  {
+   "id": "earth-shield",
+   "variant": "film-en",
+   "version": 1,
+   "file": "earth-shield/film-en-v1.mp4",
+   "asset": "earth-shield--film-en--v1.mp4",
+   "release": "earth-shield",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/earth-shield/earth-shield--film-en--v1.mp4",
+   "sha256": "71a7ff6591b43e5f4e247b22759a722daf1aba21ddf69ade882ca5f340ef2527",
+   "bytes": 15419844,
+   "duration_s": 97.9,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Земля как щит: мюоны останавливаются, нейтрино проходят",
+    "en": "The Earth as a shield: muons stop, neutrinos pass"
    }
   },
   {
@@ -268,6 +325,82 @@
    "title": {
     "ru": "Электроны в постоянном магнитном поле",
     "en": "Electrons in a constant magnetic field"
+   }
+  },
+  {
+   "id": "feynman-scattering",
+   "variant": "film-electron-electron",
+   "version": 1,
+   "file": "feynman-scattering/film-electron-electron-v1.mp4",
+   "asset": "feynman-scattering--film-electron-electron--v1.mp4",
+   "release": "feynman-scattering",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/feynman-scattering/feynman-scattering--film-electron-electron--v1.mp4",
+   "sha256": "6f09afa8274a2bc08d44f16c794b03e47df7070301136b87d4074cdd2919134a",
+   "bytes": 286813,
+   "duration_s": 5.75,
+   "width": 1080,
+   "height": 1920,
+   "audio": false,
+   "title": {
+    "ru": "Диаграммы рассеяния",
+    "en": "Scattering diagrams"
+   }
+  },
+  {
+   "id": "feynman-scattering",
+   "variant": "film-nu-mu-electron",
+   "version": 1,
+   "file": "feynman-scattering/film-nu-mu-electron-v1.mp4",
+   "asset": "feynman-scattering--film-nu-mu-electron--v1.mp4",
+   "release": "feynman-scattering",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/feynman-scattering/feynman-scattering--film-nu-mu-electron--v1.mp4",
+   "sha256": "1523d0b739fb1ae82a88b225a472a7ab3a3f580d84eeb6182e0742394708b103",
+   "bytes": 302668,
+   "duration_s": 5.75,
+   "width": 1080,
+   "height": 1920,
+   "audio": false,
+   "title": {
+    "ru": "Диаграммы рассеяния",
+    "en": "Scattering diagrams"
+   }
+  },
+  {
+   "id": "feynman-scattering",
+   "variant": "film-nu-mu-z",
+   "version": 1,
+   "file": "feynman-scattering/film-nu-mu-z-v1.mp4",
+   "asset": "feynman-scattering--film-nu-mu-z--v1.mp4",
+   "release": "feynman-scattering",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/feynman-scattering/feynman-scattering--film-nu-mu-z--v1.mp4",
+   "sha256": "8647c4861ce5f6b0af2e7b5c73060b250212da3b93dc9e05fa4e54dc55735c74",
+   "bytes": 301653,
+   "duration_s": 5.75,
+   "width": 1080,
+   "height": 1920,
+   "audio": false,
+   "title": {
+    "ru": "Диаграммы рассеяния",
+    "en": "Scattering diagrams"
+   }
+  },
+  {
+   "id": "feynman-scattering",
+   "variant": "film-quark-quark",
+   "version": 1,
+   "file": "feynman-scattering/film-quark-quark-v1.mp4",
+   "asset": "feynman-scattering--film-quark-quark--v1.mp4",
+   "release": "feynman-scattering",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/feynman-scattering/feynman-scattering--film-quark-quark--v1.mp4",
+   "sha256": "4fedb30f230df60509ed5316ef829e37f823159ae3b4063470c3c88c7245e366",
+   "bytes": 311968,
+   "duration_s": 5.75,
+   "width": 1080,
+   "height": 1920,
+   "audio": false,
+   "title": {
+    "ru": "Диаграммы рассеяния",
+    "en": "Scattering diagrams"
    }
   },
   {
@@ -481,6 +614,44 @@
   },
   {
    "id": "jet-launch",
+   "variant": "film-en",
+   "version": 1,
+   "file": "jet-launch/film-en-v1.mp4",
+   "asset": "jet-launch--film-en--v1.mp4",
+   "release": "jet-launch",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/jet-launch/jet-launch--film-en--v1.mp4",
+   "sha256": "6e0fd24a29df8628203ed010b1872ca608fb91a3742c8c5dcfc68afc141a1839",
+   "bytes": 23399589,
+   "duration_s": 98.4,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "От звезды к джету: откуда берётся мощность",
+    "en": "From a star to a jet: where the power comes from"
+   }
+  },
+  {
+   "id": "jet-launch",
+   "variant": "film-ru",
+   "version": 1,
+   "file": "jet-launch/film-ru-v1.mp4",
+   "asset": "jet-launch--film-ru--v1.mp4",
+   "release": "jet-launch",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/jet-launch/jet-launch--film-ru--v1.mp4",
+   "sha256": "36ae6c74be160e0a52bfe97cbff4a131d2a18066f2ffc290e73c632a29e70035",
+   "bytes": 23667514,
+   "duration_s": 98.4,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "От звезды к джету: откуда берётся мощность",
+    "en": "From a star to a jet: where the power comes from"
+   }
+  },
+  {
+   "id": "jet-launch",
    "variant": "web-en",
    "version": 1,
    "file": "jet-launch/web-en-v1.mp4",
@@ -614,6 +785,44 @@
   },
   {
    "id": "mac-e-filter",
+   "variant": "film-katrin-electric",
+   "version": 1,
+   "file": "mac-e-filter/film-katrin-electric-v1.mp4",
+   "asset": "mac-e-filter--film-katrin-electric--v1.mp4",
+   "release": "mac-e-filter",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/mac-e-filter/mac-e-filter--film-katrin-electric--v1.mp4",
+   "sha256": "89cd0e093f8ec1e8d0a3e5858d8cdd2ed9e48844b87cee38e0943c47c9398a0f",
+   "bytes": 422784,
+   "duration_s": 14.0,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Электроны в магнитном поле и MAC-E-фильтр KATRIN",
+    "en": "Electrons in a magnetic field and the KATRIN MAC-E filter"
+   }
+  },
+  {
+   "id": "mac-e-filter",
+   "variant": "film-uniform-field",
+   "version": 1,
+   "file": "mac-e-filter/film-uniform-field-v1.mp4",
+   "asset": "mac-e-filter--film-uniform-field--v1.mp4",
+   "release": "mac-e-filter",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/mac-e-filter/mac-e-filter--film-uniform-field--v1.mp4",
+   "sha256": "f68d1691dada8f206912f3c7057c08062f7c78579b1c63d8c2c6688c018e6fed",
+   "bytes": 3700631,
+   "duration_s": 14.0,
+   "width": 3840,
+   "height": 2160,
+   "audio": false,
+   "title": {
+    "ru": "Электроны в магнитном поле и MAC-E-фильтр KATRIN",
+    "en": "Electrons in a magnetic field and the KATRIN MAC-E filter"
+   }
+  },
+  {
+   "id": "mac-e-filter",
    "variant": "web-katrin-collimation",
    "version": 1,
    "file": "mac-e-filter/web-katrin-collimation-v1.mp4",
@@ -671,6 +880,44 @@
   },
   {
    "id": "mass-hierarchy",
+   "variant": "film-ordering",
+   "version": 1,
+   "file": "mass-hierarchy/film-ordering-v1.mp4",
+   "asset": "mass-hierarchy--film-ordering--v1.mp4",
+   "release": "mass-hierarchy",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/mass-hierarchy/mass-hierarchy--film-ordering--v1.mp4",
+   "sha256": "5a4ec5050059b225099d26167dcb06241227d4b8d46ead405db066350104c39e",
+   "bytes": 562430,
+   "duration_s": 11.43,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Иерархия масс нейтрино",
+    "en": "Neutrino mass ordering"
+   }
+  },
+  {
+   "id": "mass-hierarchy",
+   "variant": "film-scales",
+   "version": 1,
+   "file": "mass-hierarchy/film-scales-v1.mp4",
+   "asset": "mass-hierarchy--film-scales--v1.mp4",
+   "release": "mass-hierarchy",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/mass-hierarchy/mass-hierarchy--film-scales--v1.mp4",
+   "sha256": "e7bc6da51e5ab0d23f2528c0315eab3c4b412b831ea7e980d4d099c61a1e2623",
+   "bytes": 521695,
+   "duration_s": 11.43,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Иерархия масс нейтрино",
+    "en": "Neutrino mass ordering"
+   }
+  },
+  {
+   "id": "mass-hierarchy",
    "variant": "web-scales",
    "version": 1,
    "file": "mass-hierarchy/web-scales-v1.mp4",
@@ -705,6 +952,44 @@
    "title": {
     "ru": "Порядок масс нейтрино",
     "en": "The ordering of the neutrino masses"
+   }
+  },
+  {
+   "id": "milky-way-neutrinos",
+   "variant": "film-en",
+   "version": 1,
+   "file": "milky-way-neutrinos/film-en-v1.mp4",
+   "asset": "milky-way-neutrinos--film-en--v1.mp4",
+   "release": "milky-way-neutrinos",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/milky-way-neutrinos/milky-way-neutrinos--film-en--v1.mp4",
+   "sha256": "cfffc82bf08496f5d265437c357f41ccd393d8b6f35904d8310b873f6b3b0d3d",
+   "bytes": 9814032,
+   "duration_s": 72.4,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Млечный Путь в нейтрино",
+    "en": "The Milky Way in neutrinos"
+   }
+  },
+  {
+   "id": "milky-way-neutrinos",
+   "variant": "film-ru",
+   "version": 1,
+   "file": "milky-way-neutrinos/film-ru-v1.mp4",
+   "asset": "milky-way-neutrinos--film-ru--v1.mp4",
+   "release": "milky-way-neutrinos",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/milky-way-neutrinos/milky-way-neutrinos--film-ru--v1.mp4",
+   "sha256": "3ebb9de193af032cfad06e0fbb847b94485f9488e815fea2c9993c8a814f7b2c",
+   "bytes": 9992905,
+   "duration_s": 72.4,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Млечный Путь в нейтрино",
+    "en": "The Milky Way in neutrinos"
    }
   },
   {
@@ -823,6 +1108,25 @@
   },
   {
    "id": "msw-parametric",
+   "variant": "film-layers",
+   "version": 1,
+   "file": "msw-parametric/film-layers-v1.mp4",
+   "asset": "msw-parametric--film-layers--v1.mp4",
+   "release": "msw-parametric",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/msw-parametric/msw-parametric--film-layers--v1.mp4",
+   "sha256": "fd6abb8dffc664f118d15f47a52f6f4f11f2b3def7190ab6d802fdb4fd1631da",
+   "bytes": 1994591,
+   "duration_s": 30.1,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Параметрическое усиление в чередующихся слоях вещества",
+    "en": "Parametric amplification in alternating layers of matter"
+   }
+  },
+  {
+   "id": "msw-parametric",
    "variant": "qr-neutrino-physics",
    "version": 1,
    "file": "msw-parametric/qr-neutrino-physics-v1.mp4",
@@ -838,6 +1142,78 @@
    "title": {
     "ru": "Параметрическое усиление в чередующихся слоях вещества",
     "en": "Parametric amplification in alternating layers of matter"
+   }
+  },
+  {
+   "id": "msw-pendulums",
+   "variant": "film-beats",
+   "version": 1,
+   "file": "msw-pendulums/film-beats-v1.mp4",
+   "asset": "msw-pendulums--film-beats--v1.mp4",
+   "release": "msw-pendulums",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/msw-pendulums/msw-pendulums--film-beats--v1.mp4",
+   "sha256": "590cd90d7c165a81b79f4c0afdd727a3ac89f294246359357472de4f8015e872",
+   "bytes": 1151839,
+   "duration_s": 16.0,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Связанные маятники и эффект MSW"
+   }
+  },
+  {
+   "id": "msw-pendulums",
+   "variant": "film-modes",
+   "version": 1,
+   "file": "msw-pendulums/film-modes-v1.mp4",
+   "asset": "msw-pendulums--film-modes--v1.mp4",
+   "release": "msw-pendulums",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/msw-pendulums/msw-pendulums--film-modes--v1.mp4",
+   "sha256": "3f35fa04cad1791b4261ef362cfd99b72398b1d89f80cc773ce9d1c04a47232d",
+   "bytes": 1825466,
+   "duration_s": 29.3,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Связанные маятники и эффект MSW"
+   }
+  },
+  {
+   "id": "msw-pendulums",
+   "variant": "film-passage",
+   "version": 1,
+   "file": "msw-pendulums/film-passage-v1.mp4",
+   "asset": "msw-pendulums--film-passage--v1.mp4",
+   "release": "msw-pendulums",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/msw-pendulums/msw-pendulums--film-passage--v1.mp4",
+   "sha256": "5e0f4d805841611fe09fcb21697c030eec7dfe963d221d35c5a99a0b01f8dbe0",
+   "bytes": 1877910,
+   "duration_s": 29.3,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Связанные маятники и эффект MSW"
+   }
+  },
+  {
+   "id": "msw-rotating-basis",
+   "variant": "film-ru",
+   "version": 1,
+   "file": "msw-rotating-basis/film-ru-v1.mp4",
+   "asset": "msw-rotating-basis--film-ru--v1.mp4",
+   "release": "msw-rotating-basis",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/msw-rotating-basis/msw-rotating-basis--film-ru--v1.mp4",
+   "sha256": "7e1efd1894753d2e62b80c8b1806c0f2f597046be78d5a110c4af3fd1ce0d890",
+   "bytes": 1445757,
+   "duration_s": 38.0,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Мгновенный базис поворачивается: адиабатический MSW-переход"
    }
   },
   {
@@ -876,6 +1252,43 @@
    "title": {
     "ru": "Интерференция волн и фазоров в тонком резонансном слое",
     "en": "Interference of waves and phasors in a thin resonant layer"
+   }
+  },
+  {
+   "id": "msw-three-levels",
+   "variant": "film-ru",
+   "version": 1,
+   "file": "msw-three-levels/film-ru-v1.mp4",
+   "asset": "msw-three-levels--film-ru--v1.mp4",
+   "release": "msw-three-levels",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/msw-three-levels/msw-three-levels--film-ru--v1.mp4",
+   "sha256": "6d801118255255c5adc5334ea033db3a630a3467aefd9ae43e0c82b37ff8c23c",
+   "bytes": 1050606,
+   "duration_s": 34.0,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Три уровня нейтрино в веществе"
+   }
+  },
+  {
+   "id": "neutrino-oscillation-phases",
+   "variant": "film-phases",
+   "version": 1,
+   "file": "neutrino-oscillation-phases/film-phases-v1.mp4",
+   "asset": "neutrino-oscillation-phases--film-phases--v1.mp4",
+   "release": "neutrino-oscillation-phases",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/neutrino-oscillation-phases/neutrino-oscillation-phases--film-phases--v1.mp4",
+   "sha256": "f04f8367ef4fc7c5dc1dba49c6e9c41a7119c6f04e67d1208c793c620c3fe6e6",
+   "bytes": 313153,
+   "duration_s": 6.3,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Осцилляции нейтрино с фазами",
+    "en": "Neutrino oscillations with phases"
    }
   },
   {
@@ -975,6 +1388,25 @@
   },
   {
    "id": "neutrino-reconstruction",
+   "variant": "film-en",
+   "version": 1,
+   "file": "neutrino-reconstruction/film-en-v1.mp4",
+   "asset": "neutrino-reconstruction--film-en--v1.mp4",
+   "release": "neutrino-reconstruction",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/neutrino-reconstruction/neutrino-reconstruction--film-en--v1.mp4",
+   "sha256": "b713f0cb1fc4682fdfe55406d0cbee202cc23ddb11ef46d8c5503cc64f1ab2cf",
+   "bytes": 938850,
+   "duration_s": 48.0,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Как восстановить невидимый трек мюона",
+    "en": "Reconstructing an invisible muon track"
+   }
+  },
+  {
+   "id": "neutrino-reconstruction",
    "variant": "web-en",
    "version": 1,
    "file": "neutrino-reconstruction/web-en-v1.mp4",
@@ -990,6 +1422,44 @@
    "title": {
     "ru": "Как восстановить невидимый трек мюона",
     "en": "Reconstructing an invisible muon track"
+   }
+  },
+  {
+   "id": "neutrino-telescope",
+   "variant": "film-electron-en",
+   "version": 1,
+   "file": "neutrino-telescope/film-electron-en-v1.mp4",
+   "asset": "neutrino-telescope--film-electron-en--v1.mp4",
+   "release": "neutrino-telescope",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/neutrino-telescope/neutrino-telescope--film-electron-en--v1.mp4",
+   "sha256": "963232e9a0b956fd368fe95f5e2ca8ed2c4e417544da05c4223a0235c420bf90",
+   "bytes": 712311,
+   "duration_s": 20.0,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Черенковский свет: мюон и электронный каскад",
+    "en": "Cherenkov light: a muon and an electron cascade"
+   }
+  },
+  {
+   "id": "neutrino-telescope",
+   "variant": "film-muon-en",
+   "version": 1,
+   "file": "neutrino-telescope/film-muon-en-v1.mp4",
+   "asset": "neutrino-telescope--film-muon-en--v1.mp4",
+   "release": "neutrino-telescope",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/neutrino-telescope/neutrino-telescope--film-muon-en--v1.mp4",
+   "sha256": "97004bd6872690f75f6ddb3152a9fa9c1c89d1f7006414a9b3dd8d9c31148dd1",
+   "bytes": 832710,
+   "duration_s": 20.0,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Черенковский свет: мюон и электронный каскад",
+    "en": "Cherenkov light: a muon and an electron cascade"
    }
   },
   {
@@ -1184,6 +1654,25 @@
   },
   {
    "id": "pmt-multiplication",
+   "variant": "film-avalanche-en",
+   "version": 1,
+   "file": "pmt-multiplication/film-avalanche-en-v1.mp4",
+   "asset": "pmt-multiplication--film-avalanche-en--v1.mp4",
+   "release": "pmt-multiplication",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/pmt-multiplication/pmt-multiplication--film-avalanche-en--v1.mp4",
+   "sha256": "3f6ca56834c67ef770513b2ee285a4e12b6eb7314350cb03c37365c1c449702e",
+   "bytes": 960590,
+   "duration_s": 40.0,
+   "width": 1280,
+   "height": 720,
+   "audio": false,
+   "title": {
+    "ru": "Умножение электронов в ФЭУ",
+    "en": "Electron multiplication in a PMT"
+   }
+  },
+  {
+   "id": "pmt-multiplication",
    "variant": "web-avalanche-en",
    "version": 1,
    "file": "pmt-multiplication/web-avalanche-en-v1.mp4",
@@ -1275,6 +1764,25 @@
    "title": {
     "ru": "Протон-протонный цикл",
     "en": "The proton–proton chain"
+   }
+  },
+  {
+   "id": "project8-cres",
+   "variant": "film-cres-event",
+   "version": 1,
+   "file": "project8-cres/film-cres-event-v1.mp4",
+   "asset": "project8-cres--film-cres-event--v1.mp4",
+   "release": "project8-cres",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/project8-cres/project8-cres--film-cres-event--v1.mp4",
+   "sha256": "0d4803e1b350eb56b4b9c93921af7803f1db469c921f1c69304eca4c160e47c5",
+   "bytes": 706546,
+   "duration_s": 13.8,
+   "width": 1600,
+   "height": 900,
+   "audio": false,
+   "title": {
+    "ru": "Project 8: циклотронное излучение электрона",
+    "en": "Project 8: cyclotron radiation of an electron"
    }
   },
   {
@@ -1507,6 +2015,44 @@
   },
   {
    "id": "source-emerges",
+   "variant": "film-en",
+   "version": 1,
+   "file": "source-emerges/film-en-v1.mp4",
+   "asset": "source-emerges--film-en--v1.mp4",
+   "release": "source-emerges",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/source-emerges/source-emerges--film-en--v1.mp4",
+   "sha256": "61fee392f160af969fa2ed845c6e6019f2d7c5a6085bb7d9d6e563fc09510be1",
+   "bytes": 9775636,
+   "duration_s": 57.4,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Источник проступает",
+    "en": "A source emerges"
+   }
+  },
+  {
+   "id": "source-emerges",
+   "variant": "film-ru",
+   "version": 1,
+   "file": "source-emerges/film-ru-v1.mp4",
+   "asset": "source-emerges--film-ru--v1.mp4",
+   "release": "source-emerges",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/source-emerges/source-emerges--film-ru--v1.mp4",
+   "sha256": "9585dc98672e73215e0c0195522063eea9e73f173ccd95610d8ca6ba415e601f",
+   "bytes": 9733656,
+   "duration_s": 57.4,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Источник проступает",
+    "en": "A source emerges"
+   }
+  },
+  {
+   "id": "source-emerges",
    "variant": "web-en",
    "version": 1,
    "file": "source-emerges/web-en-v1.mp4",
@@ -1541,6 +2087,25 @@
    "title": {
     "ru": "Источник проступает",
     "en": "A source emerges"
+   }
+  },
+  {
+   "id": "spin",
+   "variant": "film-sphere",
+   "version": 1,
+   "file": "spin/film-sphere-v1.mp4",
+   "asset": "spin--film-sphere--v1.mp4",
+   "release": "spin",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/spin/spin--film-sphere--v1.mp4",
+   "sha256": "749c7aaa0c99d2f556e2f9406b7933026d04f422f3a8ae747b447e3c0f0cebbe",
+   "bytes": 17472348,
+   "duration_s": 40.4,
+   "width": 428,
+   "height": 304,
+   "audio": false,
+   "title": {
+    "ru": "Спин и вращение",
+    "en": "Spin and rotation"
    }
   },
   {
@@ -1674,6 +2239,82 @@
    "title": {
     "ru": "Звезда в джете: один из способов родить нейтрино",
     "en": "A star in the jet: one way to make neutrinos"
+   }
+  },
+  {
+   "id": "telescope-events",
+   "variant": "film-nue-cc-en",
+   "version": 1,
+   "file": "telescope-events/film-nue-cc-en-v1.mp4",
+   "asset": "telescope-events--film-nue-cc-en--v1.mp4",
+   "release": "telescope-events",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/telescope-events/telescope-events--film-nue-cc-en--v1.mp4",
+   "sha256": "1a6e48430a095808570f3f702e139a1f3cda1bc8c0d33e92f2d343b11526a23e",
+   "bytes": 4291117,
+   "duration_s": 17.5,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Свет нейтринного события в телескопе",
+    "en": "The light of a neutrino event in a telescope"
+   }
+  },
+  {
+   "id": "telescope-events",
+   "variant": "film-nue-cc-ru",
+   "version": 1,
+   "file": "telescope-events/film-nue-cc-ru-v1.mp4",
+   "asset": "telescope-events--film-nue-cc-ru--v1.mp4",
+   "release": "telescope-events",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/telescope-events/telescope-events--film-nue-cc-ru--v1.mp4",
+   "sha256": "674f6f788b71db6e3e9e4982049267fbf4eedb3b27b9e17f0d0e900f15fd0c48",
+   "bytes": 4311967,
+   "duration_s": 17.5,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Свет нейтринного события в телескопе",
+    "en": "The light of a neutrino event in a telescope"
+   }
+  },
+  {
+   "id": "telescope-events",
+   "variant": "film-numu-cc-en",
+   "version": 1,
+   "file": "telescope-events/film-numu-cc-en-v1.mp4",
+   "asset": "telescope-events--film-numu-cc-en--v1.mp4",
+   "release": "telescope-events",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/telescope-events/telescope-events--film-numu-cc-en--v1.mp4",
+   "sha256": "e85f565b3d8ba0a886a99e03903e5466113b7f6cbb98fdfdaed9d31e4c61487d",
+   "bytes": 6307779,
+   "duration_s": 17.5,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Свет нейтринного события в телескопе",
+    "en": "The light of a neutrino event in a telescope"
+   }
+  },
+  {
+   "id": "telescope-events",
+   "variant": "film-numu-cc-ru",
+   "version": 1,
+   "file": "telescope-events/film-numu-cc-ru-v1.mp4",
+   "asset": "telescope-events--film-numu-cc-ru--v1.mp4",
+   "release": "telescope-events",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/telescope-events/telescope-events--film-numu-cc-ru--v1.mp4",
+   "sha256": "33dbbc6566d39075f729d390f186e2d94e5fa288c2a147e396374366666fd156",
+   "bytes": 6361360,
+   "duration_s": 17.5,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Свет нейтринного события в телескопе",
+    "en": "The light of a neutrino event in a telescope"
    }
   },
   {
