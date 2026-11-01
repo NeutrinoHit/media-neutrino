@@ -670,6 +670,25 @@
    }
   },
   {
+   "id": "juno-journey",
+   "variant": "web-short",
+   "version": 2,
+   "file": "juno-journey/web-short-v2.mp4",
+   "asset": "juno-journey--web-short--v2.mp4",
+   "release": "juno-journey",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/juno-journey/juno-journey--web-short--v2.mp4",
+   "sha256": "948a5536571f43bbcdf5c618d7e0f013edd733591dad529271a40348b6c28fc5",
+   "bytes": 46356820,
+   "duration_s": 53.0,
+   "width": 1080,
+   "height": 1920,
+   "audio": true,
+   "title": {
+    "ru": "Путешествие в JUNO",
+    "en": "A journey to JUNO"
+   }
+  },
+  {
    "id": "kaon-oscillations",
    "variant": "web-film-en",
    "version": 1,
@@ -1974,6 +1993,21 @@
     "ru": "Звезда в джете: один из способов родить нейтрино",
     "en": "A star in the jet: one way to make neutrinos"
    }
+  },
+  {
+   "id": "teach-in-applications",
+   "variant": "film-map",
+   "version": 1,
+   "file": "teach-in-applications/film-map-v1.mp4",
+   "asset": "teach-in-applications--film-map--v1.mp4",
+   "release": "teach-in-applications",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/teach-in-applications/teach-in-applications--film-map--v1.mp4",
+   "sha256": "ecd343d650f94f4f7a595307f2eafbac1327dd76ea9ae9bb31466780ae8c88cd",
+   "bytes": 549111,
+   "duration_s": 99.0,
+   "width": 1792,
+   "height": 1008,
+   "audio": false
   },
   {
    "id": "telescope-events",
