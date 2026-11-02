@@ -50,8 +50,10 @@ def index_page(manifest: dict, total: int) -> str:
     for film in manifest["media"]:
         title = html.escape((film.get("title") or {}).get("en") or film["id"])
         rows.append(f'<tr><td><a href="{html.escape(film["file"])}">{html.escape(film["file"])}</a></td>'
-                    f'<td>{title}</td><td>{film["width"]}×{film["height"]}</td>'
-                    f'<td>{film["duration_s"]:.0f} s</td><td>{film["bytes"] / 1e6:.1f} MB</td></tr>')
+                    f'<td>{title}</td>'
+                    + (f'<td>{film["width"]}×{film["height"]}</td><td>{film["duration_s"]:.0f} s</td>'
+                       if "width" in film else f'<td>{film.get("type", "")}</td><td></td>')
+                    + f'<td>{film["bytes"] / 1e6:.1f} MB</td></tr>')
     return f"""<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex">
@@ -83,7 +85,7 @@ def main() -> int:
         target = out / film["file"]
         target.parent.mkdir(parents=True, exist_ok=True)
         if args.from_cache:
-            source = args.from_cache / f'{film["sha256"]}.mp4'
+            source = args.from_cache / (film["sha256"] + Path(film["file"]).suffix)
             if not source.is_file():
                 raise SystemExit(f"not in the cache: {film['file']} ({source.name})")
             shutil.copyfile(source, target)
