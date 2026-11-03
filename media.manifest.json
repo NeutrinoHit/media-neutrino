@@ -766,6 +766,44 @@
   },
   {
    "id": "mac-e-filter",
+   "variant": "film-katrin-electric",
+   "version": 2,
+   "file": "mac-e-filter/film-katrin-electric-v2.mp4",
+   "asset": "mac-e-filter--film-katrin-electric--v2.mp4",
+   "release": "mac-e-filter",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/mac-e-filter/mac-e-filter--film-katrin-electric--v2.mp4",
+   "sha256": "841fe0bf4cd9b103cd7f4fdc008613e01e3bbd19dfe1f5cb0c6912981f168f23",
+   "bytes": 8903938,
+   "duration_s": 14.0,
+   "width": 3840,
+   "height": 2160,
+   "audio": false,
+   "title": {
+    "ru": "Электроны в магнитном поле и MAC-E-фильтр KATRIN",
+    "en": "Electrons in a magnetic field and the KATRIN MAC-E filter"
+   }
+  },
+  {
+   "id": "mac-e-filter",
+   "variant": "film-katrin-electric-en",
+   "version": 1,
+   "file": "mac-e-filter/film-katrin-electric-en-v1.mp4",
+   "asset": "mac-e-filter--film-katrin-electric-en--v1.mp4",
+   "release": "mac-e-filter",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/mac-e-filter/mac-e-filter--film-katrin-electric-en--v1.mp4",
+   "sha256": "708dffe2ead18997e5b0301280441de0bb480d5916444ee036ccd7ad03d023d5",
+   "bytes": 8859013,
+   "duration_s": 14.0,
+   "width": 3840,
+   "height": 2160,
+   "audio": false,
+   "title": {
+    "ru": "Электроны в магнитном поле и MAC-E-фильтр KATRIN",
+    "en": "Electrons in a magnetic field and the KATRIN MAC-E filter"
+   }
+  },
+  {
+   "id": "mac-e-filter",
    "variant": "film-uniform-field",
    "version": 1,
    "file": "mac-e-filter/film-uniform-field-v1.mp4",
@@ -774,6 +812,44 @@
    "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/mac-e-filter/mac-e-filter--film-uniform-field--v1.mp4",
    "sha256": "f68d1691dada8f206912f3c7057c08062f7c78579b1c63d8c2c6688c018e6fed",
    "bytes": 3700631,
+   "duration_s": 14.0,
+   "width": 3840,
+   "height": 2160,
+   "audio": false,
+   "title": {
+    "ru": "Электроны в магнитном поле и MAC-E-фильтр KATRIN",
+    "en": "Electrons in a magnetic field and the KATRIN MAC-E filter"
+   }
+  },
+  {
+   "id": "mac-e-filter",
+   "variant": "film-uniform-field",
+   "version": 2,
+   "file": "mac-e-filter/film-uniform-field-v2.mp4",
+   "asset": "mac-e-filter--film-uniform-field--v2.mp4",
+   "release": "mac-e-filter",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/mac-e-filter/mac-e-filter--film-uniform-field--v2.mp4",
+   "sha256": "d6ec9f66f2396e92d6244f51410c6324e4c5942441014e8375c6b7553f7bd760",
+   "bytes": 3700552,
+   "duration_s": 14.0,
+   "width": 3840,
+   "height": 2160,
+   "audio": false,
+   "title": {
+    "ru": "Электроны в магнитном поле и MAC-E-фильтр KATRIN",
+    "en": "Electrons in a magnetic field and the KATRIN MAC-E filter"
+   }
+  },
+  {
+   "id": "mac-e-filter",
+   "variant": "film-uniform-field-en",
+   "version": 1,
+   "file": "mac-e-filter/film-uniform-field-en-v1.mp4",
+   "asset": "mac-e-filter--film-uniform-field-en--v1.mp4",
+   "release": "mac-e-filter",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/mac-e-filter/mac-e-filter--film-uniform-field-en--v1.mp4",
+   "sha256": "87729374b4fc1f3613593df22f83e8114e8e3d0a7b76d044fa6b868b49798cfd",
+   "bytes": 3627361,
    "duration_s": 14.0,
    "width": 3840,
    "height": 2160,
@@ -1605,6 +1681,25 @@
    "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/project8-cres/project8-cres--film-cres-event--v1.mp4",
    "sha256": "0d4803e1b350eb56b4b9c93921af7803f1db469c921f1c69304eca4c160e47c5",
    "bytes": 706546,
+   "duration_s": 13.8,
+   "width": 1600,
+   "height": 900,
+   "audio": false,
+   "title": {
+    "ru": "Project 8: циклотронное излучение электрона",
+    "en": "Project 8: cyclotron radiation of an electron"
+   }
+  },
+  {
+   "id": "project8-cres",
+   "variant": "film-en",
+   "version": 1,
+   "file": "project8-cres/film-en-v1.mp4",
+   "asset": "project8-cres--film-en--v1.mp4",
+   "release": "project8-cres",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/project8-cres/project8-cres--film-en--v1.mp4",
+   "sha256": "07e6b97fc5d11fc3315b28c0580b6cc5e00b8496b18ae32fe6033c44faf823ca",
+   "bytes": 702171,
    "duration_s": 13.8,
    "width": 1600,
    "height": 900,
