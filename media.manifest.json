@@ -616,6 +616,25 @@
   },
   {
    "id": "icecube-first-pev",
+   "variant": "web-en",
+   "version": 3,
+   "file": "icecube-first-pev/web-en-v3.mp4",
+   "asset": "icecube-first-pev--web-en--v3.mp4",
+   "release": "icecube-first-pev",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/icecube-first-pev/icecube-first-pev--web-en--v3.mp4",
+   "sha256": "fae6047f594dc34ae1d5668aea2571fc8540c20aecd4bdf01ec21f46f83fb874",
+   "bytes": 27714697,
+   "duration_s": 72.0,
+   "width": 1920,
+   "height": 1080,
+   "audio": true,
+   "title": {
+    "ru": "IceCube: первые нейтрино с энергией ПэВ",
+    "en": "IceCube: the first PeV neutrinos"
+   }
+  },
+  {
+   "id": "icecube-first-pev",
    "variant": "web-ru",
    "version": 1,
    "file": "icecube-first-pev/web-ru-v1.mp4",
@@ -644,6 +663,25 @@
    "sha256": "1c4dc6f8ac00f2b6d6bc1e04651a331e01e183f04b82239e2adf962e2ac317fb",
    "bytes": 25046469,
    "duration_s": 22.5,
+   "width": 1920,
+   "height": 1080,
+   "audio": true,
+   "title": {
+    "ru": "IceCube: первые нейтрино с энергией ПэВ",
+    "en": "IceCube: the first PeV neutrinos"
+   }
+  },
+  {
+   "id": "icecube-first-pev",
+   "variant": "web-ru",
+   "version": 3,
+   "file": "icecube-first-pev/web-ru-v3.mp4",
+   "asset": "icecube-first-pev--web-ru--v3.mp4",
+   "release": "icecube-first-pev",
+   "url": "https://github.com/NeutrinoHit/media-neutrino/releases/download/icecube-first-pev/icecube-first-pev--web-ru--v3.mp4",
+   "sha256": "ef4cf1d38ecd29572b92972ae8d449e711f260df5c6b4acdeb40139ec3bda55e",
+   "bytes": 27811985,
+   "duration_s": 72.0,
    "width": 1920,
    "height": 1080,
    "audio": true,
